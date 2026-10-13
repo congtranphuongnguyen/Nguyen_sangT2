@@ -1,0 +1,1223 @@
+EXAM_NAME: ETS TOEIC Reading Test 10 (Full 100 Câu)
+
+---
+Q: 101. Please contact the product distributor, not the retail store, if _______ need replacement parts.
+A: your
+B: you
+C: yourself
+D: yours
+ANS: B
+EXP: Cần đại từ nhân xưng chủ ngữ 'you' đứng trước động từ 'need'.
+
+---
+Q: 102. AGU Group's insurance rates have remained steady _______ the last three years.
+A: at
+B: by
+C: to
+D: for
+ANS: D
+EXP: Giới từ 'for' đi với khoảng thời gian (for the last three years).
+
+---
+Q: 103. Sage Bistro's menu features a _______ variety of seafood items than Almaner Pavilion's.
+A: wide
+B: widest
+C: wider
+D: widely
+ANS: C
+EXP: Có 'than' trong câu so sánh hơn => dùng 'wider'.
+
+---
+Q: 104. Frequent training enables our technicians to resolve most computer problems _______.
+A: swiftly
+B: avoidably
+C: doubtfully
+D: rigidly
+ANS: A
+EXP: 'Swiftly' (nhanh chóng) là trạng từ bổ nghĩa cho động từ 'resolve'.
+
+---
+Q: 105. Most of the manufacturing sector has reported higher profits as a result of the trade _______.
+A: agreement
+B: agreeing
+C: agreeably
+D: agrees
+ANS: A
+EXP: Cụm danh từ ghép 'trade agreement' (hiệp định thương mại).
+
+---
+Q: 106. The cooking instructions call for reducing the heat and letting the sauce simmer _______ it thickens.
+A: whereas
+B: likewise
+C: instead
+D: until
+ANS: D
+EXP: 'Until' (cho đến khi) chỉ thời điểm hành động diễn ra.
+
+---
+Q: 107. The Cullingford Bridge took a _______ short amount of time to be repaired.
+A: surprise
+B: surprisingly
+C: surprising
+D: surprised
+ANS: B
+EXP: Trạng từ 'surprisingly' bổ nghĩa cho tính từ 'short'.
+
+---
+Q: 108. The company's summer picnic is _______ held outside town, in Warren County Lakeside Park.
+A: apart
+B: always
+C: much
+D: far
+ANS: B
+EXP: 'Always' (luôn luôn) là trạng từ tần suất phù hợp với sự kiện thường niên.
+
+---
+Q: 109. Ms. Navarro wants to fill the administrative assistant _______ as soon as possible.
+A: worker
+B: employment
+C: position
+D: experience
+ANS: C
+EXP: 'Fill a position' (tuyển dụng/lấp đầy một vị trí công việc).
+
+---
+Q: 110. The item that Ms. Bak ordered from our catalog is _______ until 16 October.
+A: unavailable
+B: occupied
+C: uneventful
+D: delivered
+ANS: A
+EXP: 'Unavailable' (chưa có sẵn / hết hàng) cho đến ngày 16 tháng 10.
+
+---
+Q: 111. Kespi Brand cookies, delicious by _______, are even better when paired with a glass of milk.
+A: they
+B: theirs
+C: them
+D: themselves
+ANS: D
+EXP: Thành ngữ 'by themselves' (khi thưởng thức riêng một mình).
+
+---
+Q: 112. The North India Electricians Association _______ various online courses covering licensure, safety, and technology.
+A: offers
+B: takes
+C: pays
+D: allows
+ANS: A
+EXP: 'Offers online courses' (cung cấp các khóa học trực tuyến).
+
+---
+Q: 113. The latest survey shows that our downtown store is more _______ for local shoppers than our suburban location.
+A: conveniences
+B: conveniently
+C: convenience
+D: convenient
+ANS: D
+EXP: Sau 'more' cần tính từ 'convenient' trong cấu trúc so sánh hơn.
+
+---
+Q: 114. Weaving Fire is the most popular television show _______ women ages 18-34.
+A: among
+B: toward
+C: within
+D: along
+ANS: A
+EXP: 'Among' (trong số / trong giới) dùng cho nhóm đối tượng cụ thể.
+
+---
+Q: 115. _______ a designer has completed a prototype product, the rest of the team will be invited to critique it.
+A: So that
+B: Whether
+C: From
+D: After
+ANS: D
+EXP: Liên từ 'After' (sau khi) chỉ quan hệ thời gian tiếp nối giữa hai mệnh đề.
+
+---
+Q: 116. Rather than archiving routine e-mails, please delete them _______.
+A: especially
+B: likewise
+C: quite
+D: instead
+ANS: D
+EXP: 'Instead' (thay vào đó) kết hợp với cấu trúc 'Rather than'.
+
+---
+Q: 117. Mr. Khana made a phone call yesterday during which he _______ for the delay in the shipment of the clothing order.
+A: to apologize
+B: apologized
+C: apologize
+D: will be apologizing
+ANS: B
+EXP: Mệnh đề quan hệ trong quá khứ ('yesterday') cần động từ chia thì quá khứ đơn 'apologized'.
+
+---
+Q: 118. Following many months of research, the marketing team finally decided on a _______ for the new perfume bottle.
+A: force
+B: style
+C: belief
+D: request
+ANS: B
+EXP: 'Style' (kiểu dáng / mẫu mã) phù hợp với thiết kế chai nước hoa.
+
+---
+Q: 119. For more information about product warranties or _______ your new appliance, please contact customer service.
+A: to register
+B: registered
+C: registers
+D: registration
+ANS: A
+EXP: Cấu trúc song song dạng mục đích: 'about product warranties or to register...'.
+
+---
+Q: 120. There will be a software upgrade tomorrow, _______ please back up any important files you have stored on the server.
+A: rather
+B: while
+C: so
+D: because
+ANS: C
+EXP: Liên từ 'so' (vì vậy / do đó) chỉ kết quả / hành động cần làm tiếp theo.
+
+---
+Q: 121. Ambassador Chaturvedi wrote in his memoir that his parents taught him to do each job well, _______ it was.
+A: whoever
+B: anyone
+C: everything
+D: whatever
+ANS: D
+EXP: 'Whatever it was' (bất kể công việc đó là gì).
+
+---
+Q: 122. Yields from your garden will _______ rise as you add Natrium Compost to the soil.
+A: steady
+B: steadying
+C: steadily
+D: steadier
+ANS: C
+EXP: Trạng từ 'steadily' (đều đặn) bổ nghĩa cho động từ 'rise'.
+
+---
+Q: 123. The Tokyo division handles product _______ and customer service for the company.
+A: distribute
+B: distributor
+C: distribution
+D: distributed
+ANS: C
+EXP: Danh từ 'distribution' (sự phân phối sản phẩm) song song với 'customer service'.
+
+---
+Q: 124. Our newest executive assistant will be responsible for _______ between the marketing and accounting departments.
+A: coordination
+B: attention
+C: appreciation
+D: consideration
+ANS: A
+EXP: 'Coordination between departments' (sự điều phối giữa các phòng ban).
+
+---
+Q: 125. Hemlin Corporation is looking for a sales representative _______ primary role will be expanding business in the northwest region.
+A: that
+B: whose
+C: who
+D: which
+ANS: B
+EXP: Đại từ quan hệ sở hữu 'whose' đứng trước danh từ 'primary role'.
+
+---
+Q: 126. To eliminate _______ inventory of winter outerwear, Ashley Fashions has cut prices on all coats, hats, and scarves.
+A: chilly
+B: adequate
+C: excess
+D: revised
+ANS: C
+EXP: Cụm danh từ 'excess inventory' (hàng tồn kho dư thừa).
+
+---
+Q: 127. Search the Labesse Financial Web site for the most current and detailed _______ of investment options.
+A: explain
+B: explanation
+C: to explain
+D: explainable
+ANS: B
+EXP: Sau tính từ 'detailed' cần danh từ 'explanation' (lời giải thích/thuyết minh).
+
+---
+Q: 128. The last paragraph _______ to have been added to the contract as an afterthought.
+A: arranged
+B: permitted
+C: transferred
+D: appeared
+ANS: D
+EXP: 'Appeared to have been added' (dường như đã được bổ sung vào).
+
+---
+Q: 129. Unless the shipment of tiles arrives early, work on the lobby floor _______ after the holiday.
+A: has commenced
+B: commencing
+C: will commence
+D: commenced
+ANS: C
+EXP: Mệnh đề điều kiện 'Unless + hiện tại', mệnh đề chính chia tương lai 'will commence'.
+
+---
+Q: 130. Neeson Pro garments are made of a synthetic blend that is _______ to staining.
+A: exposed
+B: automatic
+C: limited
+D: vulnerable
+ANS: D
+EXP: 'Vulnerable to' (dễ bị ảnh hưởng / dễ bị bám bẩn).
+
+---
+PASSAGE:
+To: All Employees
+Subject: Server Maintenance Reminder
+Date: March 11
+
+Please be advised it is time for the IT department to [131] mandatory server maintenance and updates. [132]. There will be no Internet service in the building from 7:00 P.M. Wednesday, March 12, until 9:00 A.M. Thursday, March 13. In addition, please note there will be no remote access available. Therefore, you will not be able to log in to the server from outside the office. [133] this regularly scheduled maintenance, you will not have access to your e-mail, calendar, or contacts. Employees should plan accordingly. We [134] any inconvenience this may cause.
+---
+Q: 131. Select the best answer for blank [131]:
+A: suggest
+B: perform
+C: cancel
+D: revise
+ANS: B
+EXP: 'Perform mandatory server maintenance' (thực hiện bảo trì máy chủ bắt buộc).
+
+---
+Q: 132. Select the best answer for blank [132]:
+A: The updates will be e-mailed to all employees.
+B: Please reply if you would like to participate.
+C: The process will begin tomorrow evening.
+D: A memo will be distributed indicating the start time.
+ANS: C
+EXP: Câu tiếp theo chỉ rõ mốc thời gian bắt đầu từ tối thứ Tư (tomorrow evening).
+
+---
+Q: 133. Select the best answer for blank [133]:
+A: During
+B: Now
+C: When
+D: Finally
+ANS: A
+EXP: 'During this regularly scheduled maintenance' (trong suốt đợt bảo trì định kỳ này).
+
+---
+Q: 134. Select the best answer for blank [134]:
+A: regret
+B: regretting
+C: regrettable
+D: regrettably
+ANS: A
+EXP: 'We regret any inconvenience' (chúng tôi xin lỗi vì bất kỳ sự bất tiện nào).
+
+---
+PASSAGE:
+22 April
+Ms. Anna Schoorl
+Rodezand 334
+3011 AV Rotterdam, Netherlands
+
+Dear Ms. Schoorl,
+Congratulations on your remarkable [135] in the Netherlands, Belgium, and Luxembourg. Your region has improved its on-time delivery performance for each of the past seven quarters. [136].
+I am pleased to offer you a promotion to Director of European Operations. The position [137] in Hamburg, Germany. I realize that relocating may be difficult for you. [138], I certainly hope that you will take time to consider this opportunity. Please call me at your earliest convenience so that we can discuss any concerns you may have.
+Thank you for being a part of the Unocity Shipping family.
+
+Sincerely,
+Xia Hsu, Director of Operations
+Unocity Shipping, Inc.
+---
+Q: 135. Select the best answer for blank [135]:
+A: speeches
+B: shops
+C: visits
+D: efforts
+ANS: D
+EXP: 'Remarkable efforts' (những nỗ lực xuất sắc vượt bậc).
+
+---
+Q: 136. Select the best answer for blank [136]:
+A: Such work deserves recognition.
+B: Please meet with your assistant.
+C: It was shipped about a week ago.
+D: I will be in Belgium next month.
+ANS: A
+EXP: 'Such work deserves recognition' (những thành tựu như vậy xứng đáng được ghi nhận).
+
+---
+Q: 137. Select the best answer for blank [137]:
+A: was based
+B: is based
+C: basing
+D: bases
+ANS: B
+EXP: 'The position is based in Hamburg' (vị trí này đặt tại văn phòng Hamburg).
+
+---
+Q: 138. Select the best answer for blank [138]:
+A: In addition
+B: For instance
+C: However
+D: Similarly
+ANS: C
+EXP: 'However' (tuy nhiên) thể hiện sự chuyển ý sau khi nhắc đến việc chuyển nơi ở khó khăn.
+
+---
+PASSAGE:
+To: Wu Investment Services employees
+From: Eileen Suen, Office Manager
+Re: Jacob Wu
+Date: 15 August
+
+To All Staff,
+As many of you are aware, Jacob Wu, our long-standing Chief Executive Officer, [139] on 1 October. Twenty years ago, Mr. Wu set out to create a Hong Kong-based services firm with an international scope. [140]. Wu Investment Services currently serves clients in seventeen countries, 95 percent of whom have chosen to invest with us for the long term.
+Mr. Wu will be [141] by Thomas Wu, his son, who has served as Vice President of Wu Investment Services for the past four years.
+A gathering will be held on 28 September to celebrate Mr. Wu's [142] career. I will send further information about the event closer to the date. Thank you.
+
+Eileen
+---
+Q: 139. Select the best answer for blank [139]:
+A: retired
+B: will be retiring
+C: would retire
+D: was to retire
+ANS: B
+EXP: Sự việc sẽ xảy ra vào ngày 1 tháng 10 tới ('on 1 October') => chia thì tương lai tiếp diễn 'will be retiring'.
+
+---
+Q: 140. Select the best answer for blank [140]:
+A: You will soon receive a formal invitation.
+B: The event will take place in the staff room.
+C: He certainly achieved his goal.
+D: There, he graduated with academic distinction.
+ANS: C
+EXP: 'He certainly achieved his goal' kết nối mục tiêu 20 năm trước và thành tựu hiện tại ở 17 quốc gia.
+
+---
+Q: 141. Select the best answer for blank [141]:
+A: succeeded
+B: achieved
+C: accomplished
+D: resolved
+ANS: A
+EXP: 'Be succeeded by someone' (được kế nhiệm bởi ai).
+
+---
+Q: 142. Select the best answer for blank [142]:
+A: promising
+B: technical
+C: foremost
+D: distinguished
+ANS: D
+EXP: 'Distinguished career' (sự nghiệp xuất sắc / lẫy lừng).
+
+---
+PASSAGE:
+From: Madeleine DeVries, Director of Operations
+To: All Employees
+Date: June 1
+Re: Travel Policy
+
+To help reduce [143], the officers have voted to change the company's travel policy. The revised policy will be [144] on June 15. From that point forward, employees traveling within the country will be required to submit their travel requests to the accounting office no later than three weeks before the date of departure. [145]. [146] exceptions to this policy will be decided on a case-by-case basis and must first be approved by the individual employee's supervisor.
+---
+Q: 143. Select the best answer for blank [143]:
+A: spend
+B: spends
+C: spender
+D: spending
+ANS: D
+EXP: Sau động từ 'reduce' cần danh từ 'spending' (chi tiêu ngân sách đi lại).
+
+---
+Q: 144. Select the best answer for blank [144]:
+A: instituted
+B: examined
+C: purchased
+D: overturned
+ANS: A
+EXP: 'Policy will be instituted' (chính sách sẽ được ban hành / áp dụng).
+
+---
+Q: 145. Select the best answer for blank [145]:
+A: The accounting office will be closed for renovations next week.
+B: Travel is important for maintaining relationships with clients.
+C: The officers periodically review and revise key company policies.
+D: Requests for international travel must be sent at least one month in advance.
+ANS: D
+EXP: Nối tiếp quy định công tác trong nước (3 tuần) là quy định công tác quốc tế (ít nhất 1 tháng).
+
+---
+Q: 146. Select the best answer for blank [146]:
+A: Any
+B: Additional
+C: Previous
+D: These
+ANS: A
+EXP: 'Any exceptions to this policy' (bất kỳ trường hợp ngoại lệ nào đối với chính sách này).
+
+---
+PASSAGE:
+Siobhan's Toronto, Ontario
+April 14 · 09:23 a.m. · Dine-in · Server: Antonio K.
+Order: 55234
+
+1 Medium Coffee    $2.25 (No sugar, No milk)
+1 Large Coffee     $2.75 (3 sugars, No milk)
+2 Croissants       $4.00
+----------------------------------------
+Subtotal:          $9.00
+HST 13%:           $1.17
+Total:            $10.17
+*************************************************
+Tell us how we did today and get a free medium coffee!
+Just fill out our online survey at www.siobhans.ca/survey.
+You will be given a code to receive a free medium coffee when you buy any regular-priced pastry.
+---
+Q: 147. What type of business most likely provided the receipt?
+A: A caterer
+B: A vegetable market
+C: A cafe
+D: An online retailer
+ANS: C
+EXP: Hóa đơn bán cà phê và bánh sừng bò, có ghi rõ Dine-in => Quán cà phê.
+
+---
+Q: 148. How much money can survey participants save?
+A: $2.25
+B: $2.75
+C: $4.00
+D: $9.00
+ANS: A
+EXP: Khách hàng tham gia khảo sát được miễn phí 1 ly Medium Coffee trị giá $2.25.
+
+---
+PASSAGE:
+Country Gardening Today
+
+Growing plants can be easy. It just takes knowing the right tips and tricks. That's why our award-winning Country Gardening Today is the most widely read gardening magazine in all of New Zealand. Most of our readers say they had never planted a single seed before ordering our magazine, and now they take pride in their beautiful flowers and scrumptious vegetables. Our articles cover every aspect of gardening, and they are written by expert landscape designers, horticulturalists, and botanists. This fun and practical magazine also offers do-it-yourself landscaping ideas, product recommendations (no ads!), and step-by-step guides. Don't miss this spectacular offer!
+
+Subscribe before the end of February and save 25% off the retail cover price! Just go to www.countrygardeningtoday.com.
+---
+Q: 149. For whom is the advertisement most likely intended?
+A: Beginning gardeners
+B: Landscape designers
+C: Plant store owners
+D: Magazine publishers
+ANS: A
+EXP: 'had never planted a single seed before' => Nhắm tới những người mới bắt đầu làm vườn.
+
+---
+Q: 150. According to the advertisement, what does the magazine feature?
+A: Product advertisements
+B: Gardening tips from readers
+C: Articles by gardening professionals
+D: Botanical artwork
+ANS: C
+EXP: 'written by expert landscape designers, horticulturalists, and botanists' => Bài viết bởi chuyên gia làm vườn.
+
+---
+PASSAGE:
+To: Pedro Alamilla
+From: Emma Golding
+Date: 16 April
+Subject: Labels
+
+Dear Pedro,
+Per your request, below is the text for the labels for the new "Think Green Paper" line. The labels will be placed on the edge of the packaged reams of paper, so their size should not exceed 3 cm by 8 cm. The design should include the tree graphic we discussed yesterday. The text should read as follows:
+• Think Green Paper
+• 100% from recycled products
+• 90 g/m2 bond
+• Bright white
+
+Please create a true-to-size and true-to-color sample version of the label by Wednesday, 21 April, and send it to the attention of my assistant, Dora Kensington. I will be out of the office on Wednesday, but I will review the sample and approve it as soon as I am back in the office on Thursday morning.
+
+Emma
+---
+Q: 151. Who most likely is Mr. Alamilla?
+A: An administrative assistant
+B: A graphic designer
+C: An accountant
+D: A store manager
+ANS: B
+EXP: Pedro được yêu cầu thiết kế nhãn mác (labels) với đồ họa và kích thước mẫu => Chuyên viên thiết kế đồ họa.
+
+---
+Q: 152. What is indicated about the sample?
+A: It will include an image.
+B: It will be larger than its final version.
+C: It will be printed with green ink.
+D: It will require Ms. Kensington's approval.
+ANS: A
+EXP: 'The design should include the tree graphic' => Nhãn mẫu sẽ có hình ảnh cây xanh.
+
+---
+PASSAGE:
+Artie Jeffers [5:40 P.M.]
+Sun Jung, the overhead lights in the conference room are blinking oddly. I called the maintenance hotline, but no one answered. Is anyone from maintenance still in for the day?
+
+Sun Jung Park [5:41 P.M.]
+Oh no! We have a meeting there in 20 minutes with the Larkspur executives. Try sending a message to Patty Grant. She is the head of maintenance and usually works late.
+
+Artie Jeffers [5:45 P.M.]
+Good news! Patty has already responded. A crew is on the way now to address the problem.
+---
+Q: 153. Why does Mr. Jeffers write to Ms. Park?
+A: To schedule a meeting
+B: To find out whether she can work late
+C: To ask about staff availability
+D: To postpone an upcoming event
+ANS: C
+EXP: 'Is anyone from maintenance still in for the day?' => Hỏi xem nhân viên bảo trì có còn làm việc không.
+
+---
+Q: 154. At 5:41 P.M., what does Ms. Park most likely mean when she writes, 'Oh no'?
+A: She did not set up the conference room.
+B: She cannot find Ms. Grant's phone number.
+C: She is unable to attend an executive meeting.
+D: She is concerned about a maintenance issue.
+ANS: D
+EXP: Cô Park lo lắng vì phòng họp sắp có cuộc họp với đối tác trong 20 phút nữa mà đèn bị nhấp nháy.
+
+---
+PASSAGE:
+Bill Gallardo's Suits
+Item details
+Purchaser: Richard Sawyer
+Garment: #PC36 (navy/wool)
+Price: $89.99    Tax: $5.40
+Alteration: no charge (see remarks)
+Sold By: Larry Wei
+Assigned to: Florian Gartner
+
+Alterations:
+Jacket - Sleeves: shorten
+Remarks: clerical error during initial measurement
+---
+Q: 155. Who most likely is Mr. Wei?
+A: A tailor
+B: A designer
+C: A salesperson
+D: A business owner
+ANS: C
+EXP: 'Sold By: Larry Wei' => Người bán hàng.
+
+---
+Q: 156. Where does the item not fit Mr. Sawyer correctly?
+A: On his legs
+B: On his arms
+C: Around his neck
+D: Around his waist
+ANS: B
+EXP: Áo vest được sửa ở phần 'Sleeves: shorten' (ống tay áo) => Tay áo / cánh tay (arms).
+
+---
+Q: 157. Why will the alterations be free?
+A: A coupon was redeemed.
+B: The item was purchased online.
+C: The item was sold with a defect.
+D: A staff member made a mistake.
+ANS: D
+EXP: 'clerical error during initial measurement' => Nhân viên đo sai kích thước ban đầu.
+
+---
+PASSAGE:
+Posted by Padma Pradhan on Friday, September 23, at 12:34 P.M.
+
+I took my mobile phone to the Vivi's Tech Fix location on Rivas Boulevard and 23rd Street for help with a cracked screen. I dropped off the phone on a Tuesday afternoon, and by Wednesday morning I had received a quote by e-mail letting me know the cost to fix it. I called to accept the quote and give my credit card number, and I was able to pick up the mobile the next day on my way home from work - as good as new. If you are looking for responsible professionals, Vivi's Tech Fix is the right place.
+
+While I was in the store picking up my mobile, another customer came in. She was also picking up a damaged mobile; however, the technicians had informed her that the device could not be fixed because of severe water damage, so she owed them nothing. I was impressed that customers can get a free diagnostic from the technicians and don't need to pay anything if a device is beyond repair.
+---
+Q: 158. What is implied about Vivi's Tech Fix?
+A: It has multiple stores.
+B: It was recently established.
+C: It repairs mobile phones only.
+D: It accepts payment by credit card only.
+ANS: A
+EXP: 'the Vivi's Tech Fix location on Rivas Boulevard' => Cho thấy có nhiều chi nhánh.
+
+---
+Q: 159. When did Ms. Pradhan pick up her mobile phone?
+A: On Tuesday
+B: On Wednesday
+C: On Thursday
+D: On Friday
+ANS: C
+EXP: Gửi máy thứ Ba, nhận báo giá sáng thứ Tư, đến lấy vào ngày hôm sau ('the next day') => Thứ Năm (Thursday).
+
+---
+Q: 160. In paragraph 2, line 5, the word 'beyond' is closest in meaning to
+A: superior to
+B: very costly to
+C: in immediate need of
+D: outside the reach of
+ANS: D
+EXP: 'beyond repair' = không thể sửa được nữa / vượt ngoài khả năng sửa chữa => 'outside the reach of'.
+
+---
+PASSAGE:
+PLEASE READ IMMEDIATELY
+To: All Staff
+From: Information Technology Services
+Date: July 28
+
+Last night, we experienced an outage of the main webmail server that has affected e-mail and web service throughout the company. - [1] -. Our host server, webmail.raass.net, failed overnight, and this has interrupted our mail service. - [2] -. As a result, it takes much longer to open e-mail. In many cases, accounts may not respond at all.
+
+At this moment, service has still not been fully restored. We are investigating the cause of the problem and working to resolve it. - [3] -. We will keep you posted with further notices via automated voice messages, so please do not ignore your phone. We apologize for the inconvenience. - [4] -.
+---
+Q: 161. What does the memo explain?
+A: How passwords should be changed
+B: How to apply for new e-mail accounts
+C: Why staff have received so many voice messages
+D: Why staff have had difficulty accessing e-mails
+ANS: D
+EXP: Thông báo giải thích lý do sự cố máy chủ email khiến nhân viên gặp khó khăn khi truy cập email.
+
+---
+Q: 162. What are employees asked to do?
+A: Contact the help desk
+B: Post messages on a board
+C: Update their user information
+D: Wait for further announcements
+ANS: D
+EXP: 'We will keep you posted with further notices... so please do not ignore your phone' => Chờ thông báo tiếp theo.
+
+---
+Q: 163. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? 'Unfortunately, it is unclear when that will happen.'
+A: [1]
+B: [2]
+C: [3]
+D: [4]
+ANS: C
+EXP: Câu này hợp lý nhất tại vị trí [3], ngay sau câu 'service has still not been fully restored. We are investigating...'
+
+---
+PASSAGE:
+To: jgonzalez@centralavemarketing.com
+From: pamison@dantonpubliclibrary.org
+Subject: Library update
+Date: May 10
+Attachment: Volunteer opportunities
+
+Dear Ms. Gonzalez,
+Thank you for your generosity in donating to the Danton Public Library once again last year. Because of donations from you and others, we were able to purchase twenty new computers for our patrons' use. - [1] -. We also acquired a new collection of nonfiction books for our children's room.
+
+At this time, I would like to tell you about another project we hope to complete with additional funds: converting many of our old, worn-out books into electronic files to help preserve their content for future use. This is a costly endeavor. - [2] -. If you are able to contribute even a small amount toward this new goal, it would be greatly appreciated.
+
+If you are unable to make another monetary donation, please consider helping us complete some small renovation projects that we have scheduled for this year. - [3] -. A list of those projects is attached. We hope you will find one that interests you. - [4] -. We look forward to working alongside enthusiastic and engaged community members like yourself to ensure the library's future success.
+
+Sincerely,
+Peter Amison, Community Outreach Coordinator
+Danton Public Library
+---
+Q: 164. Why did Mr. Amison send the e-mail to Ms. Gonzalez?
+A: Because she has a history of helping the library
+B: Because she is overseeing a new project
+C: Because she wrote a book about the town of Danton
+D: Because she is a frequent user of the library's computers
+ANS: A
+EXP: 'Thank you for your generosity in donating to... once again last year' => Cô Gonzalez có tiền sử quyên góp giúp đỡ thư viện.
+
+---
+Q: 165. What is most likely true about Ms. Gonzalez?
+A: She is a retired librarian.
+B: She has applied for a job at the library.
+C: She owns a book scanner.
+D: She is a resident of Danton.
+ANS: D
+EXP: 'community members like yourself' => Thành viên sinh sống tại cộng đồng địa phương Danton.
+
+---
+Q: 166. What current project is the Danton Public Library trying to complete?
+A: Purchasing new books
+B: Replacing old computers
+C: Transferring books to electronic format
+D: Reorganizing the nonfiction section
+ANS: C
+EXP: 'converting many of our old, worn-out books into electronic files' => Số hóa sách cũ sang định dạng điện tử.
+
+---
+Q: 167. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? 'It will require both financial resources from dedicated patrons and additional staff hours.'
+A: [1]
+B: [2]
+C: [3]
+D: [4]
+ANS: B
+EXP: Tại vị trí [2], ngay sau khi tác giả khẳng định 'This is a costly endeavor'.
+
+---
+PASSAGE:
+Live Chat
+Maria Jacinto [10:24 A.M.]
+Good morning, everyone. I want to welcome Aika Okura to the chat.
+
+Aika Okura [10:24 A.M.]
+Hi! I'm glad that my bookstore is able to cosponsor the writers' conference this year. It is a great new opportunity for us.
+
+Maria Jacinto [10:25 A.M.]
+We are, too. We have expanded the conference to two days, so the additional sponsorship is a huge help. A larger conference means more sessions and additional hotel arrangements.
+
+Arthur Rufo [10:26 A.M.]
+Speaking of the hotels... The Rowtown Hotel was great last year, but it is booked for the dates we need this time around. The Fairmount at Clark has availability for October 17 and 18, though. It might be better since they have a larger meeting space and more options for the buffet.
+
+Maria Jacinto [10:28 A.M.]
+That sounds good. Can you send us the pricing details?
+
+Arthur Rufo [10:29 A.M.]
+They can offer a special room rate for conference attendees, too. As soon as I have the details, I'll e-mail everyone.
+
+Maria Jacinto [10:30 A.M.]
+Great. How are we doing with the keynote speaker?
+
+Aika Okura [10:31 A.M.]
+Delora Lette has tentatively agreed.
+
+Arthur Rufo [10:32 A.M.]
+Oh. I loved her latest mystery! I can see why it became a best seller so quickly.
+
+Aika Okura [10:33 A.M.]
+Yes, she's great, and I've heard she's also a wonderful speaker. She has another engagement in October in London, and she wants to make certain she can do both events. She will confirm by the end of the week.
+
+Maria Jacinto [10:34 A.M.]
+OK. It sounds like things are coming together. I'll check in again on Friday.
+---
+Q: 168. What is true about Ms. Okura?
+A: She publishes novels.
+B: She owns a business.
+C: She has previously met Ms. Lette.
+D: She has helped organize conferences.
+ANS: B
+EXP: 'my bookstore is able to cosponsor' => Cô Okura sở hữu một hiệu sách (doanh nghiệp).
+
+---
+Q: 169. What is indicated about the conference?
+A: It will take place in London.
+B: It has more than one sponsor.
+C: It is being held for the first time.
+D: It will offer discounted rates until Friday.
+ANS: B
+EXP: 'cosponsor' và 'additional sponsorship' => Có nhiều hơn một nhà tài trợ.
+
+---
+Q: 170. At 10:28 A.M., what does Ms. Jacinto mean when she writes, 'That sounds good'?
+A: She is pleased with the proposed conference site.
+B: She thinks the cost of the hotel is reasonable.
+C: She wants to join Mr. Rufo at the buffet.
+D: She prefers the Rowtown Hotel.
+ANS: A
+EXP: Hài lòng với khách sạn Fairmount at Clark được đề xuất làm địa điểm hội nghị.
+
+---
+Q: 171. Who most likely is Ms. Lette?
+A: An event planner
+B: A travel agent
+C: An author
+D: A bookseller
+ANS: C
+EXP: 'I loved her latest mystery! I can see why it became a best seller' => Tác giả tiểu thuyết.
+
+---
+PASSAGE:
+Employee News
+
+We would like to extend our congratulations to Alicia Portalska, who will be our new Vice President of Marketing from January 1. This follows last week's news of Vice President Louis Larson's retirement at the end of the year.
+
+Ms. Portalska joined us as a trainee marketing assistant four years ago and was recently promoted to marketing director. We would like to thank Ms. Portalska for her dedication and outstanding contribution to the marketing department. Her work has had a significant impact on our sales figures. It is in part thanks to her tireless efforts that we have exceeded our sales targets this year. Congratulations, Ms. Portalska! Your example is an inspiration to us all.
+---
+Q: 172. What is the purpose of the article?
+A: To inform staff about sales targets
+B: To give notice of an employee's promotion
+C: To outline this year's marketing strategy
+D: To announce that an employee has received an award
+ANS: B
+EXP: Thông báo việc thăng chức của cô Portalska lên vị trí Phó chủ tịch tiếp thị.
+
+---
+Q: 173. What does the article indicate about Ms. Portalska?
+A: She is popular.
+B: She works hard.
+C: She is innovative.
+D: She lacks experience.
+ANS: B
+EXP: 'tireless efforts' và 'dedication' => Cô ấy làm việc rất chăm chỉ, cống hiến.
+
+---
+Q: 174. The word 'outstanding' in paragraph 2, line 5, is closest in meaning to
+A: pending
+B: complete
+C: remarkable
+D: unexpected
+ANS: C
+EXP: 'Outstanding contribution' = đóng góp xuất sắc, nổi bật => 'remarkable'.
+
+---
+Q: 175. What is indicated about this year's final sales figures?
+A: They were better than anticipated.
+B: They were the same as last year's figures.
+C: They were discussed at a recent staff meeting.
+D: They were announced at a ceremony on Friday.
+ANS: A
+EXP: 'we have exceeded our sales targets this year' => Vượt chỉ tiêu doanh số dự kiến ban đầu.
+
+---
+PASSAGE:
+To: Astrid Martin <amartin@elpost.com>
+From: Quail Airlines <reservations@quailairlines.com>
+Subject: Flight Confirmation
+Date: 15 March
+
+Dear Ms. Martin,
+The flight information for the ticket you purchased today is below.
+
+Traveler: Ms. Astrid Martin
+Flight Number: QA566       Seat: 18D       Confirmation Number: EV4363592
+Date of Travel: 10 April
+Departing: Brussels, Belgium, 10:35 A.M.
+Arriving: Toronto, Canada, 1:00 P.M.
+Boarding Time: 9:35 A.M. to 10:05 A.M.
+Baggage Reservation: 1 checked bag, 1 carry-on bag
+
+On the day of travel, proceed to the Quail Airlines counter to receive your boarding pass and check in your baggage. As a Quail Travel Card member, you are allowed one checked bag and one carry-on bag free of cost. See the chart below for an explanation of baggage charges.
+
+Checked Bag: 1 bag ($0.00) | 2 bags ($30.00) | 3 bags ($60.00) | 4 bags ($90.00)
+Carry-On:    1 bag ($0.00)
+
+In the event of an airline delay of more than three (3) hours, you may use your Quail Travel Card to enter our Quail Preferred Clubroom. There you may relax, use our high-speed wireless Internet service, and enjoy complimentary food and refreshments at our snack bar.
+---------------------------------------------------------------
+[Text Message Alert]
+To: Astrid Martin
+From: Quail Airlines Flight QA566
+Date: 10 April, 6:00 A.M.
+
+This text message alert is to inform you that your flight QA566 today to Toronto, Canada, has been delayed 4 hours due to poor weather conditions. Boarding will now begin at 1:35 P.M. We apologize for any inconvenience.
+---
+Q: 176. What is true about Ms. Martin?
+A: She is from Canada.
+B: She is flying with a group.
+C: She is taking a business trip.
+D: She is a Quail Travel Card member.
+ANS: D
+EXP: 'As a Quail Travel Card member, you are allowed...'
+
+---
+Q: 177. How much must Ms. Martin pay for her bags?
+A: $0.00
+B: $30.00
+C: $60.00
+D: $90.00
+ANS: A
+EXP: Là hội viên thẻ, 1 kiện hành lý ký gửi và 1 xách tay được miễn phí ($0.00).
+
+---
+Q: 178. Why was the text message sent to Ms. Martin?
+A: To confirm her ticket purchase
+B: To notify her of a price increase
+C: To inform her of a time change
+D: To tell her what departure gate to use
+ANS: C
+EXP: Tin nhắn thông báo chuyến bay bị hoãn 4 tiếng do thời tiết (thay đổi giờ bay).
+
+---
+Q: 179. What can Ms. Martin receive on April 10?
+A: A free travel bag
+B: A free snack
+C: A free seat upgrade
+D: A free flight reassignment
+ANS: B
+EXP: Vì chuyến bay hoãn trên 3 tiếng, cô được vào phòng chờ Quail Clubroom dùng đồ ăn nhẹ miễn phí ('complimentary food and refreshments at our snack bar').
+
+---
+Q: 180. In the text message, the word 'poor' in paragraph 1, line 3, is closest in meaning to
+A: bad
+B: weak
+C: little
+D: thick
+ANS: A
+EXP: 'Poor weather conditions' = thời tiết xấu / bất lợi => 'bad'.
+
+---
+PASSAGE:
+To: custserv@xanthusflowers.co.uk
+From: mnair@nortraxpetrol.co.uk
+Date: 27 July
+Subject: Order #9871
+
+Dear Sir or Madam:
+On 24 July, I placed an online order for £180 for three arrangements of white roses and pink lilies on behalf of my company, Nortrax Petroleum. The flowers were meant to be delivered by 10 A.M. the following day for a company banquet that evening.
+Unfortunately, the flowers did not arrive until noon. Moreover, the bouquets consisted of pink and white carnations. Worst of all, many of the flowers were either wilted or were shedding petals and thus could not be used to decorate the banquet room as planned. I was surprised and disappointed to be let down by Xanthus Flowers, a company we at Nortrax Petroleum have come to trust and depend on over the last five years.
+Since the flowers were for a one-time event, a replacement order is not really an option. Consequently, I would like to receive a refund. Thank you for your attention to this matter.
+Sincerely,
+Mindy Nair, Corporate Event Coordinator, Nortrax Petroleum
+---------------------------------------------------------------
+To: mnair@nortraxpetrol.co.uk
+From: custserv@xanthusflowers.co.uk
+Date: 28 July
+Subject: Order #9871
+
+Dear Ms. Nair,
+We sincerely apologize for the problems you recently experienced with your order. We have recently transitioned to a larger facility and have experienced a few challenges as we adjust. It is our goal to provide on-time delivery and high-quality flowers for every order. We regret that this order did not live up to our high standards.
+A refund cheque in the amount of £180 has been issued to your company. Because we are at fault, we would like to offer you a 20% discount plus free delivery on your next order. Thank you for being a loyal customer. We look forward to serving you again in the near future.
+Regards,
+Bill McCabe, Customer Service Manager
+---
+Q: 181. When did the banquet organized by Nortrax Petroleum take place?
+A: On July 24
+B: On July 25
+C: On July 27
+D: On July 28
+ANS: B
+EXP: Đặt hàng ngày 24, giao hàng vào ngày hôm sau ('the following day') cho bữa tiệc tối hôm đó => Ngày 25 tháng 7.
+
+---
+Q: 182. What is NOT true about the flowers mentioned by Ms. Nair?
+A: Their condition was unacceptable.
+B: They were the wrong kind.
+C: They were too expensive.
+D: They were delivered late.
+ANS: C
+EXP: Hoa bị giao muộn, sai loại (cẩm chướng thay vì hoa hồng/ly), bị héo, nhưng cô không phàn nàn giá đắt.
+
+---
+Q: 183. What is suggested about Ms. Nair?
+A: She works for an event-planning company.
+B: She would like to have flowers delivered monthly.
+C: She ordered more flower arrangements than she needed.
+D: She has done business with Xanthus Flowers in the past.
+ANS: D
+EXP: 'a company we at Nortrax Petroleum have come to trust and depend on over the last five years' => Đã từng đặt hoa ở đây trong quá khứ.
+
+---
+Q: 184. What does Mr. McCabe offer that Ms. Nair was not expecting?
+A: A discount on a future order
+B: Free delivery for all future purchases
+C: A refund for the entire cost of an order
+D: New flowers to replace some unsatisfactory ones
+ANS: A
+EXP: Cô Nair chỉ yêu cầu hoàn tiền, nhưng ông McCabe tặng thêm giảm giá 20% cho đơn sau.
+
+---
+Q: 185. What is mentioned about Xanthus Flowers?
+A: It is known for its fast service.
+B: It is operating from a new location.
+C: It recently purchased delivery vehicles.
+D: It plans to expand its selection of flowers.
+ANS: B
+EXP: 'We have recently transitioned to a larger facility' => Mới chuyển đến cơ sở/địa điểm mới.
+
+---
+PASSAGE:
+http://www.singhsupplies.com
+Singh Supplies LLC
+Singh Supplies LLC is your leading source for shipping and packaging materials. Our founder, Chatar Singh, started the business more than 30 years ago, when he coined the company's motto, "Expect the best for less."
+How do we, his children and grandchildren, make his pledge a reality today? We buy all materials in bulk and pass the savings along to our customers.
+✓ Each order is filled within 24 hours.
+✓ You may phone, fax, e-mail, or text your order.
+✓ Customer service agents are available 24 hours a day, 7 days a week.
+✓ Five shipping centers in the Northeast minimize costs and shorten delivery times.
+Satisfaction guarantee: Return within 10 days of purchase for a full refund. After 10 days you may return an order for a credit that is valid for up to one year. Return shipping cost is the customer's responsibility.
+---------------------------------------------------------------
+[Order Form] Singh Supplies LLC
+Date: July 10     Name: Montjoy Antiques, attn. Shipping Department
+Address: 102 Danbury Street, Valleyville, New Hampshire 03038
+- MB 01267 | cardboard box (large)  | Qty: 80  | Unit: 1.75  | Total: 140.00
+- MB 01257 | cardboard box (medium) | Qty: 200 | Unit: 1.50  | Total: 300.00
+- MB 01268 | reinforced crate       | Qty: 50  | Unit: 15.78 | Total: 789.00
+- TR 01345 | tape roll              | Qty: 30  | Unit: 2.90  | Total: 87.00
+- BW 01456 | bubble wrap roll       | Qty: 10  | Unit: 5.60  | Total: 56.00
+Subtotal: $1372.00 | Delivery charge: $140.12 | Total: $1512.12
+---------------------------------------------------------------
+[E-mail]
+To: Jung Hee Kim <jhk@montjoyantiques.com>
+From: Francine Mayo <fmayo@montjoyantiques.com>
+Date: August 12
+Subject: Order problem
+
+Hi, Jung Hee,
+I just checked with our deliveries department and I am pleased that our July 10 order was delivered promptly by Singh Supplies as usual. However, now that we've finally moved the items into the warehouse, it appears we inadvertently ordered far too many of the sturdy crates. We use this item rarely, so it could take us years to go through this many. In addition, they're big, so we've had to stack several in the restoration department. Could you contact Achint Singh today and find out if we can send half of them back? Please forward me any instructions he gives you and I'll take it from there. Thank you! - Fran
+---
+Q: 186. What is indicated about Singh Supplies?
+A: It is a relatively new business.
+B: It is operated by members of a family.
+C: It ships its products all over the world.
+D: It manufactures the products that it sells.
+ANS: B
+EXP: 'his children and grandchildren make his pledge a reality today' => Do các thành viên trong gia đình điều hành.
+
+---
+Q: 187. Which aspect of business does the Web page emphasize?
+A: Attentive service to clients
+B: A wide selection of products
+C: Partnerships with other companies
+D: Conveniently located retail locations
+ANS: A
+EXP: 'most attentive customer service in the shipping-supplies business' => Dịch vụ khách hàng chu đáo.
+
+---
+Q: 188. In the e-mail, what does Ms. Mayo praise about Singh Supplies?
+A: It is easy to contact.
+B: It packs items securely.
+C: It delivers orders quickly.
+D: It sends product samples.
+ANS: C
+EXP: 'delivered promptly by Singh Supplies as usual' => Giao hàng nhanh chóng.
+
+---
+Q: 189. Which product does Ms. Mayo want to return?
+A: MB 01257
+B: MB 01268
+C: TR 01345
+D: BW 01456
+ANS: B
+EXP: Cô Mayo muốn trả lại các thùng chắc chắn ('sturdy crates' / 'reinforced crate') => Mã sản phẩm MB 01268.
+
+---
+Q: 190. How will Mr. Singh most likely respond to Ms. Kim's request?
+A: By sending Ms. Mayo additional items
+B: By apologizing to Ms. Kim for an error
+C: By issuing a credit to Montjoy Antiques
+D: By giving Montjoy Antiques a full refund
+ANS: C
+EXP: Đơn hàng từ ngày 10/7, đến ngày 12/8 mới xin trả (đã quá 10 ngày). Theo chính sách: sau 10 ngày sẽ nhận voucher/credit có giá trị 1 năm.
+
+---
+PASSAGE:
+Tolley Praises Local Farms
+MANCHESTER (June 2) - Local horticulture expert Cassandra Tolley is scheduled to deliver a lecture Friday night at the Burton Auditorium in Manchester. The owner of Green Ridge Farm in nearby Windham County, Ms. Tolley will discuss the importance of supporting and promoting local farmers.
+A strong advocate for small-scale farmers and a small-scale farmer herself, Ms. Tolley has traveled extensively over the past few years to deliver her message of "eating locally."
+"Everyone should spend their weekends browsing the regional farmers' markets," she adds. "It's the best place to get your groceries during the summer."
+Friday night's lecture begins at 7 P.M. It is free, but seating is limited.
+---------------------------------------------------------------
+To: Cook Today Writing Staff
+From: Zack Hernandez, Editor-in-Chief
+Re: Cassandra Tolley talk
+Date: June 8
+
+To all staff,
+Cassandra Tolley is giving a talk on Friday. Please let me know if you can go. I'm confident she'll provide some good material for an article on local growers. I had a chance to hear her speak last year at Green Ridge Farm. I found her not only brilliant but funny as well. - Zack
+---------------------------------------------------------------
+Features Outline for the August Issue of Cook Today Magazine
+- Local Made Good | Topic: Sourcing and showcasing local producers and ingredients | Writer: Ira Newton
+- Herbs All Year  | Topic: Growing and maintaining an indoor kitchen herb garden     | Writer: Makalah Young
+- Vegan Delicious | Topic: Modern, nutritious, organic vegan recipes                | Writer: Keyon Davis
+- Amazing August  | Topic: A calendar of events in August                            | Writer: Jae-eun Park
+---
+Q: 191. What is the purpose of the article?
+A: To advertise a local business
+B: To discuss the local economy
+C: To promote an upcoming event
+D: To profile a new shopping market
+ANS: C
+EXP: Quảng bá buổi diễn thuyết sắp tới của bà Tolley vào tối thứ Sáu.
+
+---
+Q: 192. What does Ms. Tolley encourage people to do?
+A: Visit her Web site
+B: Read her book
+C: Grow their own produce
+D: Shop at farmers' markets
+ANS: D
+EXP: 'Everyone should spend their weekends browsing the regional farmers' markets' => Đi chợ nông sản.
+
+---
+Q: 193. What is indicated about Mr. Hernandez?
+A: He is a friend of Ms. Tolley's.
+B: He organized Ms. Tolley's talk.
+C: He has visited Ms. Tolley's business.
+D: He is selling tickets to Ms. Tolley's talk.
+ANS: C
+EXP: 'I had a chance to hear her speak last year at Green Ridge Farm' (nơi bà Tolley sở hữu) => Đã từng đến cơ sở kinh doanh của bà Tolley.
+
+---
+Q: 194. What featured article will help readers grow a garden inside their home?
+A: Local Made Good
+B: Herbs All Year
+C: Vegan Delicious
+D: Amazing August
+ANS: B
+EXP: Bài viết 'Herbs All Year' với chủ đề 'Growing and maintaining an indoor kitchen herb garden'.
+
+---
+Q: 195. Who most likely attended Ms. Tolley's talk?
+A: Mr. Newton
+B: Ms. Young
+C: Mr. Davis
+D: Ms. Park
+ANS: A
+EXP: Ông Hernandez bảo nhân viên đi nghe để lấy tư liệu về người trồng trọt địa phương ('local growers'). Người phụ trách bài viết về chủ đề này là Ira Newton ('Local Made Good').
+
+---
+PASSAGE:
+Madera Hotels Member Rewards
+**April Specials**
+Make a reservation by April 30 for a three-night or longer stay at any of our hotels between April 1 and August 31, and receive a choice of:
+(1) 20 points per dollar spent + 500 bonus points
+(2) $50 restaurant gift card for use at any Madera Hotel restaurants
+(3) 40% discount off spa services during your stay
+(4) A discount on a car rental booked at the same time as your stay
+To: Mr. Brian Carelli, 815 Irving St., New York, NY 10005
+---------------------------------------------------------------
+http://www.maderahotels/customersupport/form.com
+Madera Hotels Member Rewards Customer Support
+Today's Date: July 14
+Property Name: The Grand Madera | Reservation Number: XWQ43R2
+Location: Los Angeles           | Hotel Stay Start Date: May 12
+Name: Brian Carelli             | Membership Number: B11932013
+Email: bcarelli@pointinvesting.com | Phone: 555-0101
+Comments: I recently took advantage of your April Specials when I booked a stay at the Los Angeles Grand Madera for May. I requested the bonus points offer when I made my reservation online, but when I received my June statement, I noticed that the points had not been applied to my account. Please let me know if I will still receive the bonus points. Thank you.
+---------------------------------------------------------------
+To: Brian Carelli <bcarelli@pointinvesting.com>
+From: Oliver Beltran <obeltran@maderahotels.com>
+Date: July 16
+Subject: Your Inquiry - B11932013
+
+Dear Mr. Carelli,
+Thank you for being a valued member of the Madera Hotels Member Rewards program. We appreciate you choosing Madera for your business conferences and personal trips.
+I looked into your request, and it seems that you are correct; we did not credit your account with the bonus points for your stay. Instead, we sent the restaurant gift card to your business address. I apologize for this mistake and will credit your account right away. Also, to compensate for our mistake, I will double the offer.
+Sincerely,
+Oliver Beltran, Senior Manager, Customer Support, Madera Hotels
+---
+Q: 196. Why most likely did Mr. Carelli receive the postcard?
+A: He frequently reserves rooms at Madera Hotels.
+B: He rented a vehicle in May.
+C: He last visited a Madera Hotel in New York.
+D: He enjoys eating in hotel restaurants.
+ANS: A
+EXP: 'Thank you for being a valued member... choosing Madera for your business conferences and personal trips' => Khách hàng thường xuyên đặt phòng.
+
+---
+Q: 197. What is likely true about Mr. Carelli's hotel stay?
+A: It was for a conference.
+B: It included a spa visit.
+C: It was at least three nights long.
+D: It was paid for in advance.
+ANS: C
+EXP: Để được hưởng ưu đãi 'April Specials' điều kiện là phải ở ít nhất 3 đêm ('for a three-night or longer stay').
+
+---
+Q: 198. According to the form, when did Mr. Carelli report an issue with his account?
+A: On April 1
+B: On May 12
+C: On June 30
+D: On July 14
+ANS: D
+EXP: Ngày gửi biểu mẫu là ngày 14 tháng 7 ('Today's Date: July 14').
+
+---
+Q: 199. What special April reward did Mr. Carelli mistakenly receive?
+A: One
+B: Two
+C: Three
+D: Four
+ANS: B
+EXP: Khách sạn gửi nhầm thẻ quà tặng nhà hàng $50 ('sent the restaurant gift card') => Ưu đãi số (2) trong danh sách.
+
+---
+Q: 200. What does Mr. Beltran offer to do?
+A: Upgrade a membership
+B: Change a reservation
+C: Give additional bonus points
+D: Schedule a business conference
+ANS: C
+EXP: 'to compensate for our mistake, I will double the offer' => Nhân đôi điểm thưởng (tặng thêm bonus points).
+

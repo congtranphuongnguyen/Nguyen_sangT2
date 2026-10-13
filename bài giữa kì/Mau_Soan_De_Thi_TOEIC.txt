@@ -1,0 +1,100 @@
+# =====================================================================
+# HƯỚNG DẪN SOẠN ĐỀ THI TOEIC READING CHO GIÁO VIÊN
+# Hỗ trợ đầy đủ: Part 5 (Câu đơn), Part 6 (Điền đoạn văn), Part 7 (Đọc hiểu)
+# =====================================================================
+#
+# QUY TẮC SOẠN:
+# 1. Dòng đầu tiên ghi tên đề thi: EXAM_NAME: [Tên đề thi]
+# 2. Ngăn cách giữa các khối hoặc các câu bằng dấu: ---
+# 3. Mỗi câu hỏi gồm các thẻ:
+#    - PASSAGE: [Nội dung bài đọc/đoạn văn] (Chỉ cần ghi ở câu đầu tiên của bài đọc,
+#      các câu hỏi tiếp theo trong cùng bài đọc sẽ tự động nhận bài đọc này).
+#    - Q: [Số thứ tự câu]. [Nội dung câu hỏi]
+#    - A: [Lựa chọn A]
+#    - B: [Lựa chọn B]
+#    - C: [Lựa chọn C]
+#    - D: [Lựa chọn D]
+#    - ANS: [Đáp án đúng: A, B, C hoặc D]
+#    - EXP: [Lời giải thích ngữ pháp / từ vựng chi tiết]
+#
+# DƯỚI ĐÂY LÀ ĐỀ THI MẪU:
+
+EXAM_NAME: Đề Thi Thử TOEIC Reading Chuẩn Mẫu
+
+---
+Q: 101. Please contact the product distributor, not the retail store, if _______ need replacement parts.
+A: your
+B: you
+C: yourself
+D: yours
+ANS: B
+EXP: Cần đại từ nhân xưng chủ ngữ "you" đứng trước động từ "need".
+
+---
+Q: 102. AGU Group's insurance rates have remained steady _______ the last three years.
+A: at
+B: by
+C: to
+D: for
+ANS: D
+EXP: Giới từ "for" đi với khoảng thời gian (for the last three years).
+
+---
+PASSAGE:
+To: All Employees
+Subject: Server Maintenance Reminder
+Date: March 11
+
+Please be advised it is time for the IT department to [131] mandatory server maintenance and updates. [132]. There will be no Internet service in the building from 7:00 P.M. Wednesday, March 12, until 9:00 A.M. Thursday, March 13. [133] this regularly scheduled maintenance, you will not have access to your e-mail, calendar, or contacts. We [134] any inconvenience this may cause.
+---
+Q: 131. Select the best answer for blank [131]:
+A: suggest
+B: perform
+C: cancel
+D: revise
+ANS: B
+EXP: "Perform mandatory server maintenance" = thực hiện bảo trì máy chủ bắt buộc.
+
+---
+Q: 132. Select the best answer for blank [132]:
+A: The updates will be e-mailed to all employees.
+B: Please reply if you would like to participate.
+C: The process will begin tomorrow evening.
+D: A memo will be distributed indicating the start time.
+ANS: C
+EXP: Câu tiếp theo nêu thời gian cụ thể của buổi bảo trì nên (C) là câu dẫn hợp lý nhất.
+
+---
+PASSAGE:
+Siobhan's Toronto, Ontario
+April 14 · 09:23 a.m. · Dine-in · Server: Antonio K.
+Order: 55234
+
+1 Medium Coffee $2.25
+1 Large Coffee  $2.75
+2 Croissants    $4.00
+---------------------
+Subtotal: $9.00
+HST 13%:  $1.17
+Total:    $10.17
+
+Tell us how we did today and get a free medium coffee!
+Just fill out our online survey at www.siobhans.ca/survey.
+You will be given a code to receive a free medium coffee when you buy any regular-priced pastry.
+---
+Q: 147. What type of business most likely provided the receipt?
+A: A caterer
+B: A vegetable market
+C: A cafe
+D: An online retailer
+ANS: C
+EXP: Hóa đơn bán cà phê (coffee) và bánh sừng bò (croissants) => Quán cà phê (A cafe).
+
+---
+Q: 148. How much money can survey participants save?
+A: $2.25
+B: $2.75
+C: $4.00
+D: $9.00
+ANS: A
+EXP: Khách hàng được tặng miễn phí 1 ly Medium Coffee có giá $2.25.

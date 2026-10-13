@@ -1,0 +1,1405 @@
+{
+  "name": "ETS TOEIC Reading Test 10 (Full 100 Câu)",
+  "questions": [
+    {
+      "no": 101,
+      "part": 5,
+      "passage": null,
+      "q": "Please contact the product distributor, not the retail store, if _______ need replacement parts.",
+      "opts": [
+        "your",
+        "you",
+        "yourself",
+        "yours"
+      ],
+      "ans": 1,
+      "exp": "Cần đại từ nhân xưng chủ ngữ 'you' đứng trước động từ 'need'."
+    },
+    {
+      "no": 102,
+      "part": 5,
+      "passage": null,
+      "q": "AGU Group's insurance rates have remained steady _______ the last three years.",
+      "opts": [
+        "at",
+        "by",
+        "to",
+        "for"
+      ],
+      "ans": 3,
+      "exp": "Giới từ 'for' đi với khoảng thời gian (for the last three years)."
+    },
+    {
+      "no": 103,
+      "part": 5,
+      "passage": null,
+      "q": "Sage Bistro's menu features a _______ variety of seafood items than Almaner Pavilion's.",
+      "opts": [
+        "wide",
+        "widest",
+        "wider",
+        "widely"
+      ],
+      "ans": 2,
+      "exp": "Có 'than' trong câu so sánh hơn => dùng 'wider'."
+    },
+    {
+      "no": 104,
+      "part": 5,
+      "passage": null,
+      "q": "Frequent training enables our technicians to resolve most computer problems _______.",
+      "opts": [
+        "swiftly",
+        "avoidably",
+        "doubtfully",
+        "rigidly"
+      ],
+      "ans": 0,
+      "exp": "'Swiftly' (nhanh chóng) là trạng từ bổ nghĩa cho động từ 'resolve'."
+    },
+    {
+      "no": 105,
+      "part": 5,
+      "passage": null,
+      "q": "Most of the manufacturing sector has reported higher profits as a result of the trade _______.",
+      "opts": [
+        "agreement",
+        "agreeing",
+        "agreeably",
+        "agrees"
+      ],
+      "ans": 0,
+      "exp": "Cụm danh từ ghép 'trade agreement' (hiệp định thương mại)."
+    },
+    {
+      "no": 106,
+      "part": 5,
+      "passage": null,
+      "q": "The cooking instructions call for reducing the heat and letting the sauce simmer _______ it thickens.",
+      "opts": [
+        "whereas",
+        "likewise",
+        "instead",
+        "until"
+      ],
+      "ans": 3,
+      "exp": "'Until' (cho đến khi) chỉ thời điểm hành động diễn ra."
+    },
+    {
+      "no": 107,
+      "part": 5,
+      "passage": null,
+      "q": "The Cullingford Bridge took a _______ short amount of time to be repaired.",
+      "opts": [
+        "surprise",
+        "surprisingly",
+        "surprising",
+        "surprised"
+      ],
+      "ans": 1,
+      "exp": "Trạng từ 'surprisingly' bổ nghĩa cho tính từ 'short'."
+    },
+    {
+      "no": 108,
+      "part": 5,
+      "passage": null,
+      "q": "The company's summer picnic is _______ held outside town, in Warren County Lakeside Park.",
+      "opts": [
+        "apart",
+        "always",
+        "much",
+        "far"
+      ],
+      "ans": 1,
+      "exp": "'Always' (luôn luôn) là trạng từ tần suất phù hợp với sự kiện thường niên."
+    },
+    {
+      "no": 109,
+      "part": 5,
+      "passage": null,
+      "q": "Ms. Navarro wants to fill the administrative assistant _______ as soon as possible.",
+      "opts": [
+        "worker",
+        "employment",
+        "position",
+        "experience"
+      ],
+      "ans": 2,
+      "exp": "'Fill a position' (tuyển dụng/lấp đầy một vị trí công việc)."
+    },
+    {
+      "no": 110,
+      "part": 5,
+      "passage": null,
+      "q": "The item that Ms. Bak ordered from our catalog is _______ until 16 October.",
+      "opts": [
+        "unavailable",
+        "occupied",
+        "uneventful",
+        "delivered"
+      ],
+      "ans": 0,
+      "exp": "'Unavailable' (chưa có sẵn / hết hàng) cho đến ngày 16 tháng 10."
+    },
+    {
+      "no": 111,
+      "part": 5,
+      "passage": null,
+      "q": "Kespi Brand cookies, delicious by _______, are even better when paired with a glass of milk.",
+      "opts": [
+        "they",
+        "theirs",
+        "them",
+        "themselves"
+      ],
+      "ans": 3,
+      "exp": "Thành ngữ 'by themselves' (khi thưởng thức riêng một mình)."
+    },
+    {
+      "no": 112,
+      "part": 5,
+      "passage": null,
+      "q": "The North India Electricians Association _______ various online courses covering licensure, safety, and technology.",
+      "opts": [
+        "offers",
+        "takes",
+        "pays",
+        "allows"
+      ],
+      "ans": 0,
+      "exp": "'Offers online courses' (cung cấp các khóa học trực tuyến)."
+    },
+    {
+      "no": 113,
+      "part": 5,
+      "passage": null,
+      "q": "The latest survey shows that our downtown store is more _______ for local shoppers than our suburban location.",
+      "opts": [
+        "conveniences",
+        "conveniently",
+        "convenience",
+        "convenient"
+      ],
+      "ans": 3,
+      "exp": "Sau 'more' cần tính từ 'convenient' trong cấu trúc so sánh hơn."
+    },
+    {
+      "no": 114,
+      "part": 5,
+      "passage": null,
+      "q": "Weaving Fire is the most popular television show _______ women ages 18-34.",
+      "opts": [
+        "among",
+        "toward",
+        "within",
+        "along"
+      ],
+      "ans": 0,
+      "exp": "'Among' (trong số / trong giới) dùng cho nhóm đối tượng cụ thể."
+    },
+    {
+      "no": 115,
+      "part": 5,
+      "passage": null,
+      "q": "_______ a designer has completed a prototype product, the rest of the team will be invited to critique it.",
+      "opts": [
+        "So that",
+        "Whether",
+        "From",
+        "After"
+      ],
+      "ans": 3,
+      "exp": "Liên từ 'After' (sau khi) chỉ quan hệ thời gian tiếp nối giữa hai mệnh đề."
+    },
+    {
+      "no": 116,
+      "part": 5,
+      "passage": null,
+      "q": "Rather than archiving routine e-mails, please delete them _______.",
+      "opts": [
+        "especially",
+        "likewise",
+        "quite",
+        "instead"
+      ],
+      "ans": 3,
+      "exp": "'Instead' (thay vào đó) kết hợp với cấu trúc 'Rather than'."
+    },
+    {
+      "no": 117,
+      "part": 5,
+      "passage": null,
+      "q": "Mr. Khana made a phone call yesterday during which he _______ for the delay in the shipment of the clothing order.",
+      "opts": [
+        "to apologize",
+        "apologized",
+        "apologize",
+        "will be apologizing"
+      ],
+      "ans": 1,
+      "exp": "Mệnh đề quan hệ trong quá khứ ('yesterday') cần động từ chia thì quá khứ đơn 'apologized'."
+    },
+    {
+      "no": 118,
+      "part": 5,
+      "passage": null,
+      "q": "Following many months of research, the marketing team finally decided on a _______ for the new perfume bottle.",
+      "opts": [
+        "force",
+        "style",
+        "belief",
+        "request"
+      ],
+      "ans": 1,
+      "exp": "'Style' (kiểu dáng / mẫu mã) phù hợp với thiết kế chai nước hoa."
+    },
+    {
+      "no": 119,
+      "part": 5,
+      "passage": null,
+      "q": "For more information about product warranties or _______ your new appliance, please contact customer service.",
+      "opts": [
+        "to register",
+        "registered",
+        "registers",
+        "registration"
+      ],
+      "ans": 0,
+      "exp": "Cấu trúc song song dạng mục đích: 'about product warranties or to register...'."
+    },
+    {
+      "no": 120,
+      "part": 5,
+      "passage": null,
+      "q": "There will be a software upgrade tomorrow, _______ please back up any important files you have stored on the server.",
+      "opts": [
+        "rather",
+        "while",
+        "so",
+        "because"
+      ],
+      "ans": 2,
+      "exp": "Liên từ 'so' (vì vậy / do đó) chỉ kết quả / hành động cần làm tiếp theo."
+    },
+    {
+      "no": 121,
+      "part": 5,
+      "passage": null,
+      "q": "Ambassador Chaturvedi wrote in his memoir that his parents taught him to do each job well, _______ it was.",
+      "opts": [
+        "whoever",
+        "anyone",
+        "everything",
+        "whatever"
+      ],
+      "ans": 3,
+      "exp": "'Whatever it was' (bất kể công việc đó là gì)."
+    },
+    {
+      "no": 122,
+      "part": 5,
+      "passage": null,
+      "q": "Yields from your garden will _______ rise as you add Natrium Compost to the soil.",
+      "opts": [
+        "steady",
+        "steadying",
+        "steadily",
+        "steadier"
+      ],
+      "ans": 2,
+      "exp": "Trạng từ 'steadily' (đều đặn) bổ nghĩa cho động từ 'rise'."
+    },
+    {
+      "no": 123,
+      "part": 5,
+      "passage": null,
+      "q": "The Tokyo division handles product _______ and customer service for the company.",
+      "opts": [
+        "distribute",
+        "distributor",
+        "distribution",
+        "distributed"
+      ],
+      "ans": 2,
+      "exp": "Danh từ 'distribution' (sự phân phối sản phẩm) song song với 'customer service'."
+    },
+    {
+      "no": 124,
+      "part": 5,
+      "passage": null,
+      "q": "Our newest executive assistant will be responsible for _______ between the marketing and accounting departments.",
+      "opts": [
+        "coordination",
+        "attention",
+        "appreciation",
+        "consideration"
+      ],
+      "ans": 0,
+      "exp": "'Coordination between departments' (sự điều phối giữa các phòng ban)."
+    },
+    {
+      "no": 125,
+      "part": 5,
+      "passage": null,
+      "q": "Hemlin Corporation is looking for a sales representative _______ primary role will be expanding business in the northwest region.",
+      "opts": [
+        "that",
+        "whose",
+        "who",
+        "which"
+      ],
+      "ans": 1,
+      "exp": "Đại từ quan hệ sở hữu 'whose' đứng trước danh từ 'primary role'."
+    },
+    {
+      "no": 126,
+      "part": 5,
+      "passage": null,
+      "q": "To eliminate _______ inventory of winter outerwear, Ashley Fashions has cut prices on all coats, hats, and scarves.",
+      "opts": [
+        "chilly",
+        "adequate",
+        "excess",
+        "revised"
+      ],
+      "ans": 2,
+      "exp": "Cụm danh từ 'excess inventory' (hàng tồn kho dư thừa)."
+    },
+    {
+      "no": 127,
+      "part": 5,
+      "passage": null,
+      "q": "Search the Labesse Financial Web site for the most current and detailed _______ of investment options.",
+      "opts": [
+        "explain",
+        "explanation",
+        "to explain",
+        "explainable"
+      ],
+      "ans": 1,
+      "exp": "Sau tính từ 'detailed' cần danh từ 'explanation' (lời giải thích/thuyết minh)."
+    },
+    {
+      "no": 128,
+      "part": 5,
+      "passage": null,
+      "q": "The last paragraph _______ to have been added to the contract as an afterthought.",
+      "opts": [
+        "arranged",
+        "permitted",
+        "transferred",
+        "appeared"
+      ],
+      "ans": 3,
+      "exp": "'Appeared to have been added' (dường như đã được bổ sung vào)."
+    },
+    {
+      "no": 129,
+      "part": 5,
+      "passage": null,
+      "q": "Unless the shipment of tiles arrives early, work on the lobby floor _______ after the holiday.",
+      "opts": [
+        "has commenced",
+        "commencing",
+        "will commence",
+        "commenced"
+      ],
+      "ans": 2,
+      "exp": "Mệnh đề điều kiện 'Unless + hiện tại', mệnh đề chính chia tương lai 'will commence'."
+    },
+    {
+      "no": 130,
+      "part": 5,
+      "passage": null,
+      "q": "Neeson Pro garments are made of a synthetic blend that is _______ to staining.",
+      "opts": [
+        "exposed",
+        "automatic",
+        "limited",
+        "vulnerable"
+      ],
+      "ans": 3,
+      "exp": "'Vulnerable to' (dễ bị ảnh hưởng / dễ bị bám bẩn)."
+    },
+    {
+      "no": 131,
+      "part": 6,
+      "passage": "To: All Employees\nSubject: Server Maintenance Reminder\nDate: March 11\n\nPlease be advised it is time for the IT department to [131] mandatory server maintenance and updates. [132]. There will be no Internet service in the building from 7:00 P.M. Wednesday, March 12, until 9:00 A.M. Thursday, March 13. In addition, please note there will be no remote access available. Therefore, you will not be able to log in to the server from outside the office. [133] this regularly scheduled maintenance, you will not have access to your e-mail, calendar, or contacts. Employees should plan accordingly. We [134] any inconvenience this may cause.",
+      "q": "Select the best answer for blank [131]:",
+      "opts": [
+        "suggest",
+        "perform",
+        "cancel",
+        "revise"
+      ],
+      "ans": 1,
+      "exp": "'Perform mandatory server maintenance' (thực hiện bảo trì máy chủ bắt buộc)."
+    },
+    {
+      "no": 132,
+      "part": 6,
+      "passage": null,
+      "q": "Select the best answer for blank [132]:",
+      "opts": [
+        "The updates will be e-mailed to all employees.",
+        "Please reply if you would like to participate.",
+        "The process will begin tomorrow evening.",
+        "A memo will be distributed indicating the start time."
+      ],
+      "ans": 2,
+      "exp": "Câu tiếp theo chỉ rõ mốc thời gian bắt đầu từ tối thứ Tư (tomorrow evening)."
+    },
+    {
+      "no": 133,
+      "part": 6,
+      "passage": null,
+      "q": "Select the best answer for blank [133]:",
+      "opts": [
+        "During",
+        "Now",
+        "When",
+        "Finally"
+      ],
+      "ans": 0,
+      "exp": "'During this regularly scheduled maintenance' (trong suốt đợt bảo trì định kỳ này)."
+    },
+    {
+      "no": 134,
+      "part": 6,
+      "passage": null,
+      "q": "Select the best answer for blank [134]:",
+      "opts": [
+        "regret",
+        "regretting",
+        "regrettable",
+        "regrettably"
+      ],
+      "ans": 0,
+      "exp": "'We regret any inconvenience' (chúng tôi xin lỗi vì bất kỳ sự bất tiện nào)."
+    },
+    {
+      "no": 135,
+      "part": 6,
+      "passage": "22 April\nMs. Anna Schoorl\nRodezand 334\n3011 AV Rotterdam, Netherlands\n\nDear Ms. Schoorl,\nCongratulations on your remarkable [135] in the Netherlands, Belgium, and Luxembourg. Your region has improved its on-time delivery performance for each of the past seven quarters. [136].\nI am pleased to offer you a promotion to Director of European Operations. The position [137] in Hamburg, Germany. I realize that relocating may be difficult for you. [138], I certainly hope that you will take time to consider this opportunity. Please call me at your earliest convenience so that we can discuss any concerns you may have.\nThank you for being a part of the Unocity Shipping family.\n\nSincerely,\nXia Hsu, Director of Operations\nUnocity Shipping, Inc.",
+      "q": "Select the best answer for blank [135]:",
+      "opts": [
+        "speeches",
+        "shops",
+        "visits",
+        "efforts"
+      ],
+      "ans": 3,
+      "exp": "'Remarkable efforts' (những nỗ lực xuất sắc vượt bậc)."
+    },
+    {
+      "no": 136,
+      "part": 6,
+      "passage": null,
+      "q": "Select the best answer for blank [136]:",
+      "opts": [
+        "Such work deserves recognition.",
+        "Please meet with your assistant.",
+        "It was shipped about a week ago.",
+        "I will be in Belgium next month."
+      ],
+      "ans": 0,
+      "exp": "'Such work deserves recognition' (những thành tựu như vậy xứng đáng được ghi nhận)."
+    },
+    {
+      "no": 137,
+      "part": 6,
+      "passage": null,
+      "q": "Select the best answer for blank [137]:",
+      "opts": [
+        "was based",
+        "is based",
+        "basing",
+        "bases"
+      ],
+      "ans": 1,
+      "exp": "'The position is based in Hamburg' (vị trí này đặt tại văn phòng Hamburg)."
+    },
+    {
+      "no": 138,
+      "part": 6,
+      "passage": null,
+      "q": "Select the best answer for blank [138]:",
+      "opts": [
+        "In addition",
+        "For instance",
+        "However",
+        "Similarly"
+      ],
+      "ans": 2,
+      "exp": "'However' (tuy nhiên) thể hiện sự chuyển ý sau khi nhắc đến việc chuyển nơi ở khó khăn."
+    },
+    {
+      "no": 139,
+      "part": 6,
+      "passage": "To: Wu Investment Services employees\nFrom: Eileen Suen, Office Manager\nRe: Jacob Wu\nDate: 15 August\n\nTo All Staff,\nAs many of you are aware, Jacob Wu, our long-standing Chief Executive Officer, [139] on 1 October. Twenty years ago, Mr. Wu set out to create a Hong Kong-based services firm with an international scope. [140]. Wu Investment Services currently serves clients in seventeen countries, 95 percent of whom have chosen to invest with us for the long term.\nMr. Wu will be [141] by Thomas Wu, his son, who has served as Vice President of Wu Investment Services for the past four years.\nA gathering will be held on 28 September to celebrate Mr. Wu's [142] career. I will send further information about the event closer to the date. Thank you.\n\nEileen",
+      "q": "Select the best answer for blank [139]:",
+      "opts": [
+        "retired",
+        "will be retiring",
+        "would retire",
+        "was to retire"
+      ],
+      "ans": 1,
+      "exp": "Sự việc sẽ xảy ra vào ngày 1 tháng 10 tới ('on 1 October') => chia thì tương lai tiếp diễn 'will be retiring'."
+    },
+    {
+      "no": 140,
+      "part": 6,
+      "passage": null,
+      "q": "Select the best answer for blank [140]:",
+      "opts": [
+        "You will soon receive a formal invitation.",
+        "The event will take place in the staff room.",
+        "He certainly achieved his goal.",
+        "There, he graduated with academic distinction."
+      ],
+      "ans": 2,
+      "exp": "'He certainly achieved his goal' kết nối mục tiêu 20 năm trước và thành tựu hiện tại ở 17 quốc gia."
+    },
+    {
+      "no": 141,
+      "part": 6,
+      "passage": null,
+      "q": "Select the best answer for blank [141]:",
+      "opts": [
+        "succeeded",
+        "achieved",
+        "accomplished",
+        "resolved"
+      ],
+      "ans": 0,
+      "exp": "'Be succeeded by someone' (được kế nhiệm bởi ai)."
+    },
+    {
+      "no": 142,
+      "part": 6,
+      "passage": null,
+      "q": "Select the best answer for blank [142]:",
+      "opts": [
+        "promising",
+        "technical",
+        "foremost",
+        "distinguished"
+      ],
+      "ans": 3,
+      "exp": "'Distinguished career' (sự nghiệp xuất sắc / lẫy lừng)."
+    },
+    {
+      "no": 143,
+      "part": 6,
+      "passage": "From: Madeleine DeVries, Director of Operations\nTo: All Employees\nDate: June 1\nRe: Travel Policy\n\nTo help reduce [143], the officers have voted to change the company's travel policy. The revised policy will be [144] on June 15. From that point forward, employees traveling within the country will be required to submit their travel requests to the accounting office no later than three weeks before the date of departure. [145]. [146] exceptions to this policy will be decided on a case-by-case basis and must first be approved by the individual employee's supervisor.",
+      "q": "Select the best answer for blank [143]:",
+      "opts": [
+        "spend",
+        "spends",
+        "spender",
+        "spending"
+      ],
+      "ans": 3,
+      "exp": "Sau động từ 'reduce' cần danh từ 'spending' (chi tiêu ngân sách đi lại)."
+    },
+    {
+      "no": 144,
+      "part": 6,
+      "passage": null,
+      "q": "Select the best answer for blank [144]:",
+      "opts": [
+        "instituted",
+        "examined",
+        "purchased",
+        "overturned"
+      ],
+      "ans": 0,
+      "exp": "'Policy will be instituted' (chính sách sẽ được ban hành / áp dụng)."
+    },
+    {
+      "no": 145,
+      "part": 6,
+      "passage": null,
+      "q": "Select the best answer for blank [145]:",
+      "opts": [
+        "The accounting office will be closed for renovations next week.",
+        "Travel is important for maintaining relationships with clients.",
+        "The officers periodically review and revise key company policies.",
+        "Requests for international travel must be sent at least one month in advance."
+      ],
+      "ans": 3,
+      "exp": "Nối tiếp quy định công tác trong nước (3 tuần) là quy định công tác quốc tế (ít nhất 1 tháng)."
+    },
+    {
+      "no": 146,
+      "part": 6,
+      "passage": null,
+      "q": "Select the best answer for blank [146]:",
+      "opts": [
+        "Any",
+        "Additional",
+        "Previous",
+        "These"
+      ],
+      "ans": 0,
+      "exp": "'Any exceptions to this policy' (bất kỳ trường hợp ngoại lệ nào đối với chính sách này)."
+    },
+    {
+      "no": 147,
+      "part": 7,
+      "passage": "Siobhan's Toronto, Ontario\nApril 14 · 09:23 a.m. · Dine-in · Server: Antonio K.\nOrder: 55234\n\n1 Medium Coffee    $2.25 (No sugar, No milk)\n1 Large Coffee     $2.75 (3 sugars, No milk)\n2 Croissants       $4.00\n----------------------------------------\nSubtotal:          $9.00\nHST 13%:           $1.17\nTotal:            $10.17\n*************************************************\nTell us how we did today and get a free medium coffee!\nJust fill out our online survey at www.siobhans.ca/survey.\nYou will be given a code to receive a free medium coffee when you buy any regular-priced pastry.",
+      "q": "What type of business most likely provided the receipt?",
+      "opts": [
+        "A caterer",
+        "A vegetable market",
+        "A cafe",
+        "An online retailer"
+      ],
+      "ans": 2,
+      "exp": "Hóa đơn bán cà phê và bánh sừng bò, có ghi rõ Dine-in => Quán cà phê."
+    },
+    {
+      "no": 148,
+      "part": 7,
+      "passage": null,
+      "q": "How much money can survey participants save?",
+      "opts": [
+        "$2.25",
+        "$2.75",
+        "$4.00",
+        "$9.00"
+      ],
+      "ans": 0,
+      "exp": "Khách hàng tham gia khảo sát được miễn phí 1 ly Medium Coffee trị giá $2.25."
+    },
+    {
+      "no": 149,
+      "part": 7,
+      "passage": "Country Gardening Today\n\nGrowing plants can be easy. It just takes knowing the right tips and tricks. That's why our award-winning Country Gardening Today is the most widely read gardening magazine in all of New Zealand. Most of our readers say they had never planted a single seed before ordering our magazine, and now they take pride in their beautiful flowers and scrumptious vegetables. Our articles cover every aspect of gardening, and they are written by expert landscape designers, horticulturalists, and botanists. This fun and practical magazine also offers do-it-yourself landscaping ideas, product recommendations (no ads!), and step-by-step guides. Don't miss this spectacular offer!\n\nSubscribe before the end of February and save 25% off the retail cover price! Just go to www.countrygardeningtoday.com.",
+      "q": "For whom is the advertisement most likely intended?",
+      "opts": [
+        "Beginning gardeners",
+        "Landscape designers",
+        "Plant store owners",
+        "Magazine publishers"
+      ],
+      "ans": 0,
+      "exp": "'had never planted a single seed before' => Nhắm tới những người mới bắt đầu làm vườn."
+    },
+    {
+      "no": 150,
+      "part": 7,
+      "passage": null,
+      "q": "According to the advertisement, what does the magazine feature?",
+      "opts": [
+        "Product advertisements",
+        "Gardening tips from readers",
+        "Articles by gardening professionals",
+        "Botanical artwork"
+      ],
+      "ans": 2,
+      "exp": "'written by expert landscape designers, horticulturalists, and botanists' => Bài viết bởi chuyên gia làm vườn."
+    },
+    {
+      "no": 151,
+      "part": 7,
+      "passage": "To: Pedro Alamilla\nFrom: Emma Golding\nDate: 16 April\nSubject: Labels\n\nDear Pedro,\nPer your request, below is the text for the labels for the new \"Think Green Paper\" line. The labels will be placed on the edge of the packaged reams of paper, so their size should not exceed 3 cm by 8 cm. The design should include the tree graphic we discussed yesterday. The text should read as follows:\n• Think Green Paper\n• 100% from recycled products\n• 90 g/m2 bond\n• Bright white\n\nPlease create a true-to-size and true-to-color sample version of the label by Wednesday, 21 April, and send it to the attention of my assistant, Dora Kensington. I will be out of the office on Wednesday, but I will review the sample and approve it as soon as I am back in the office on Thursday morning.\n\nEmma",
+      "q": "Who most likely is Mr. Alamilla?",
+      "opts": [
+        "An administrative assistant",
+        "A graphic designer",
+        "An accountant",
+        "A store manager"
+      ],
+      "ans": 1,
+      "exp": "Pedro được yêu cầu thiết kế nhãn mác (labels) với đồ họa và kích thước mẫu => Chuyên viên thiết kế đồ họa."
+    },
+    {
+      "no": 152,
+      "part": 7,
+      "passage": null,
+      "q": "What is indicated about the sample?",
+      "opts": [
+        "It will include an image.",
+        "It will be larger than its final version.",
+        "It will be printed with green ink.",
+        "It will require Ms. Kensington's approval."
+      ],
+      "ans": 0,
+      "exp": "'The design should include the tree graphic' => Nhãn mẫu sẽ có hình ảnh cây xanh."
+    },
+    {
+      "no": 153,
+      "part": 7,
+      "passage": "Artie Jeffers [5:40 P.M.]\nSun Jung, the overhead lights in the conference room are blinking oddly. I called the maintenance hotline, but no one answered. Is anyone from maintenance still in for the day?\n\nSun Jung Park [5:41 P.M.]\nOh no! We have a meeting there in 20 minutes with the Larkspur executives. Try sending a message to Patty Grant. She is the head of maintenance and usually works late.\n\nArtie Jeffers [5:45 P.M.]\nGood news! Patty has already responded. A crew is on the way now to address the problem.",
+      "q": "Why does Mr. Jeffers write to Ms. Park?",
+      "opts": [
+        "To schedule a meeting",
+        "To find out whether she can work late",
+        "To ask about staff availability",
+        "To postpone an upcoming event"
+      ],
+      "ans": 2,
+      "exp": "'Is anyone from maintenance still in for the day?' => Hỏi xem nhân viên bảo trì có còn làm việc không."
+    },
+    {
+      "no": 154,
+      "part": 7,
+      "passage": null,
+      "q": "At 5:41 P.M., what does Ms. Park most likely mean when she writes, 'Oh no'?",
+      "opts": [
+        "She did not set up the conference room.",
+        "She cannot find Ms. Grant's phone number.",
+        "She is unable to attend an executive meeting.",
+        "She is concerned about a maintenance issue."
+      ],
+      "ans": 3,
+      "exp": "Cô Park lo lắng vì phòng họp sắp có cuộc họp với đối tác trong 20 phút nữa mà đèn bị nhấp nháy."
+    },
+    {
+      "no": 155,
+      "part": 7,
+      "passage": "Bill Gallardo's Suits\nItem details\nPurchaser: Richard Sawyer\nGarment: #PC36 (navy/wool)\nPrice: $89.99    Tax: $5.40\nAlteration: no charge (see remarks)\nSold By: Larry Wei\nAssigned to: Florian Gartner\n\nAlterations:\nJacket - Sleeves: shorten\nRemarks: clerical error during initial measurement",
+      "q": "Who most likely is Mr. Wei?",
+      "opts": [
+        "A tailor",
+        "A designer",
+        "A salesperson",
+        "A business owner"
+      ],
+      "ans": 2,
+      "exp": "'Sold By: Larry Wei' => Người bán hàng."
+    },
+    {
+      "no": 156,
+      "part": 7,
+      "passage": null,
+      "q": "Where does the item not fit Mr. Sawyer correctly?",
+      "opts": [
+        "On his legs",
+        "On his arms",
+        "Around his neck",
+        "Around his waist"
+      ],
+      "ans": 1,
+      "exp": "Áo vest được sửa ở phần 'Sleeves: shorten' (ống tay áo) => Tay áo / cánh tay (arms)."
+    },
+    {
+      "no": 157,
+      "part": 7,
+      "passage": null,
+      "q": "Why will the alterations be free?",
+      "opts": [
+        "A coupon was redeemed.",
+        "The item was purchased online.",
+        "The item was sold with a defect.",
+        "A staff member made a mistake."
+      ],
+      "ans": 3,
+      "exp": "'clerical error during initial measurement' => Nhân viên đo sai kích thước ban đầu."
+    },
+    {
+      "no": 158,
+      "part": 7,
+      "passage": "Posted by Padma Pradhan on Friday, September 23, at 12:34 P.M.\n\nI took my mobile phone to the Vivi's Tech Fix location on Rivas Boulevard and 23rd Street for help with a cracked screen. I dropped off the phone on a Tuesday afternoon, and by Wednesday morning I had received a quote by e-mail letting me know the cost to fix it. I called to accept the quote and give my credit card number, and I was able to pick up the mobile the next day on my way home from work - as good as new. If you are looking for responsible professionals, Vivi's Tech Fix is the right place.\n\nWhile I was in the store picking up my mobile, another customer came in. She was also picking up a damaged mobile; however, the technicians had informed her that the device could not be fixed because of severe water damage, so she owed them nothing. I was impressed that customers can get a free diagnostic from the technicians and don't need to pay anything if a device is beyond repair.",
+      "q": "What is implied about Vivi's Tech Fix?",
+      "opts": [
+        "It has multiple stores.",
+        "It was recently established.",
+        "It repairs mobile phones only.",
+        "It accepts payment by credit card only."
+      ],
+      "ans": 0,
+      "exp": "'the Vivi's Tech Fix location on Rivas Boulevard' => Cho thấy có nhiều chi nhánh."
+    },
+    {
+      "no": 159,
+      "part": 7,
+      "passage": null,
+      "q": "When did Ms. Pradhan pick up her mobile phone?",
+      "opts": [
+        "On Tuesday",
+        "On Wednesday",
+        "On Thursday",
+        "On Friday"
+      ],
+      "ans": 2,
+      "exp": "Gửi máy thứ Ba, nhận báo giá sáng thứ Tư, đến lấy vào ngày hôm sau ('the next day') => Thứ Năm (Thursday)."
+    },
+    {
+      "no": 160,
+      "part": 7,
+      "passage": null,
+      "q": "In paragraph 2, line 5, the word 'beyond' is closest in meaning to",
+      "opts": [
+        "superior to",
+        "very costly to",
+        "in immediate need of",
+        "outside the reach of"
+      ],
+      "ans": 3,
+      "exp": "'beyond repair' = không thể sửa được nữa / vượt ngoài khả năng sửa chữa => 'outside the reach of'."
+    },
+    {
+      "no": 161,
+      "part": 7,
+      "passage": "PLEASE READ IMMEDIATELY\nTo: All Staff\nFrom: Information Technology Services\nDate: July 28\n\nLast night, we experienced an outage of the main webmail server that has affected e-mail and web service throughout the company. - [1] -. Our host server, webmail.raass.net, failed overnight, and this has interrupted our mail service. - [2] -. As a result, it takes much longer to open e-mail. In many cases, accounts may not respond at all.\n\nAt this moment, service has still not been fully restored. We are investigating the cause of the problem and working to resolve it. - [3] -. We will keep you posted with further notices via automated voice messages, so please do not ignore your phone. We apologize for the inconvenience. - [4] -.",
+      "q": "What does the memo explain?",
+      "opts": [
+        "How passwords should be changed",
+        "How to apply for new e-mail accounts",
+        "Why staff have received so many voice messages",
+        "Why staff have had difficulty accessing e-mails"
+      ],
+      "ans": 3,
+      "exp": "Thông báo giải thích lý do sự cố máy chủ email khiến nhân viên gặp khó khăn khi truy cập email."
+    },
+    {
+      "no": 162,
+      "part": 7,
+      "passage": null,
+      "q": "What are employees asked to do?",
+      "opts": [
+        "Contact the help desk",
+        "Post messages on a board",
+        "Update their user information",
+        "Wait for further announcements"
+      ],
+      "ans": 3,
+      "exp": "'We will keep you posted with further notices... so please do not ignore your phone' => Chờ thông báo tiếp theo."
+    },
+    {
+      "no": 163,
+      "part": 7,
+      "passage": null,
+      "q": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? 'Unfortunately, it is unclear when that will happen.'",
+      "opts": [
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]"
+      ],
+      "ans": 2,
+      "exp": "Câu này hợp lý nhất tại vị trí [3], ngay sau câu 'service has still not been fully restored. We are investigating...'"
+    },
+    {
+      "no": 164,
+      "part": 7,
+      "passage": "To: jgonzalez@centralavemarketing.com\nFrom: pamison@dantonpubliclibrary.org\nSubject: Library update\nDate: May 10\nAttachment: Volunteer opportunities\n\nDear Ms. Gonzalez,\nThank you for your generosity in donating to the Danton Public Library once again last year. Because of donations from you and others, we were able to purchase twenty new computers for our patrons' use. - [1] -. We also acquired a new collection of nonfiction books for our children's room.\n\nAt this time, I would like to tell you about another project we hope to complete with additional funds: converting many of our old, worn-out books into electronic files to help preserve their content for future use. This is a costly endeavor. - [2] -. If you are able to contribute even a small amount toward this new goal, it would be greatly appreciated.\n\nIf you are unable to make another monetary donation, please consider helping us complete some small renovation projects that we have scheduled for this year. - [3] -. A list of those projects is attached. We hope you will find one that interests you. - [4] -. We look forward to working alongside enthusiastic and engaged community members like yourself to ensure the library's future success.\n\nSincerely,\nPeter Amison, Community Outreach Coordinator\nDanton Public Library",
+      "q": "Why did Mr. Amison send the e-mail to Ms. Gonzalez?",
+      "opts": [
+        "Because she has a history of helping the library",
+        "Because she is overseeing a new project",
+        "Because she wrote a book about the town of Danton",
+        "Because she is a frequent user of the library's computers"
+      ],
+      "ans": 0,
+      "exp": "'Thank you for your generosity in donating to... once again last year' => Cô Gonzalez có tiền sử quyên góp giúp đỡ thư viện."
+    },
+    {
+      "no": 165,
+      "part": 7,
+      "passage": null,
+      "q": "What is most likely true about Ms. Gonzalez?",
+      "opts": [
+        "She is a retired librarian.",
+        "She has applied for a job at the library.",
+        "She owns a book scanner.",
+        "She is a resident of Danton."
+      ],
+      "ans": 3,
+      "exp": "'community members like yourself' => Thành viên sinh sống tại cộng đồng địa phương Danton."
+    },
+    {
+      "no": 166,
+      "part": 7,
+      "passage": null,
+      "q": "What current project is the Danton Public Library trying to complete?",
+      "opts": [
+        "Purchasing new books",
+        "Replacing old computers",
+        "Transferring books to electronic format",
+        "Reorganizing the nonfiction section"
+      ],
+      "ans": 2,
+      "exp": "'converting many of our old, worn-out books into electronic files' => Số hóa sách cũ sang định dạng điện tử."
+    },
+    {
+      "no": 167,
+      "part": 7,
+      "passage": null,
+      "q": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? 'It will require both financial resources from dedicated patrons and additional staff hours.'",
+      "opts": [
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]"
+      ],
+      "ans": 1,
+      "exp": "Tại vị trí [2], ngay sau khi tác giả khẳng định 'This is a costly endeavor'."
+    },
+    {
+      "no": 168,
+      "part": 7,
+      "passage": "Live Chat\nMaria Jacinto [10:24 A.M.]\nGood morning, everyone. I want to welcome Aika Okura to the chat.\n\nAika Okura [10:24 A.M.]\nHi! I'm glad that my bookstore is able to cosponsor the writers' conference this year. It is a great new opportunity for us.\n\nMaria Jacinto [10:25 A.M.]\nWe are, too. We have expanded the conference to two days, so the additional sponsorship is a huge help. A larger conference means more sessions and additional hotel arrangements.\n\nArthur Rufo [10:26 A.M.]\nSpeaking of the hotels... The Rowtown Hotel was great last year, but it is booked for the dates we need this time around. The Fairmount at Clark has availability for October 17 and 18, though. It might be better since they have a larger meeting space and more options for the buffet.\n\nMaria Jacinto [10:28 A.M.]\nThat sounds good. Can you send us the pricing details?\n\nArthur Rufo [10:29 A.M.]\nThey can offer a special room rate for conference attendees, too. As soon as I have the details, I'll e-mail everyone.\n\nMaria Jacinto [10:30 A.M.]\nGreat. How are we doing with the keynote speaker?\n\nAika Okura [10:31 A.M.]\nDelora Lette has tentatively agreed.\n\nArthur Rufo [10:32 A.M.]\nOh. I loved her latest mystery! I can see why it became a best seller so quickly.\n\nAika Okura [10:33 A.M.]\nYes, she's great, and I've heard she's also a wonderful speaker. She has another engagement in October in London, and she wants to make certain she can do both events. She will confirm by the end of the week.\n\nMaria Jacinto [10:34 A.M.]\nOK. It sounds like things are coming together. I'll check in again on Friday.",
+      "q": "What is true about Ms. Okura?",
+      "opts": [
+        "She publishes novels.",
+        "She owns a business.",
+        "She has previously met Ms. Lette.",
+        "She has helped organize conferences."
+      ],
+      "ans": 1,
+      "exp": "'my bookstore is able to cosponsor' => Cô Okura sở hữu một hiệu sách (doanh nghiệp)."
+    },
+    {
+      "no": 169,
+      "part": 7,
+      "passage": null,
+      "q": "What is indicated about the conference?",
+      "opts": [
+        "It will take place in London.",
+        "It has more than one sponsor.",
+        "It is being held for the first time.",
+        "It will offer discounted rates until Friday."
+      ],
+      "ans": 1,
+      "exp": "'cosponsor' và 'additional sponsorship' => Có nhiều hơn một nhà tài trợ."
+    },
+    {
+      "no": 170,
+      "part": 7,
+      "passage": null,
+      "q": "At 10:28 A.M., what does Ms. Jacinto mean when she writes, 'That sounds good'?",
+      "opts": [
+        "She is pleased with the proposed conference site.",
+        "She thinks the cost of the hotel is reasonable.",
+        "She wants to join Mr. Rufo at the buffet.",
+        "She prefers the Rowtown Hotel."
+      ],
+      "ans": 0,
+      "exp": "Hài lòng với khách sạn Fairmount at Clark được đề xuất làm địa điểm hội nghị."
+    },
+    {
+      "no": 171,
+      "part": 7,
+      "passage": null,
+      "q": "Who most likely is Ms. Lette?",
+      "opts": [
+        "An event planner",
+        "A travel agent",
+        "An author",
+        "A bookseller"
+      ],
+      "ans": 2,
+      "exp": "'I loved her latest mystery! I can see why it became a best seller' => Tác giả tiểu thuyết."
+    },
+    {
+      "no": 172,
+      "part": 7,
+      "passage": "Employee News\n\nWe would like to extend our congratulations to Alicia Portalska, who will be our new Vice President of Marketing from January 1. This follows last week's news of Vice President Louis Larson's retirement at the end of the year.\n\nMs. Portalska joined us as a trainee marketing assistant four years ago and was recently promoted to marketing director. We would like to thank Ms. Portalska for her dedication and outstanding contribution to the marketing department. Her work has had a significant impact on our sales figures. It is in part thanks to her tireless efforts that we have exceeded our sales targets this year. Congratulations, Ms. Portalska! Your example is an inspiration to us all.",
+      "q": "What is the purpose of the article?",
+      "opts": [
+        "To inform staff about sales targets",
+        "To give notice of an employee's promotion",
+        "To outline this year's marketing strategy",
+        "To announce that an employee has received an award"
+      ],
+      "ans": 1,
+      "exp": "Thông báo việc thăng chức của cô Portalska lên vị trí Phó chủ tịch tiếp thị."
+    },
+    {
+      "no": 173,
+      "part": 7,
+      "passage": null,
+      "q": "What does the article indicate about Ms. Portalska?",
+      "opts": [
+        "She is popular.",
+        "She works hard.",
+        "She is innovative.",
+        "She lacks experience."
+      ],
+      "ans": 1,
+      "exp": "'tireless efforts' và 'dedication' => Cô ấy làm việc rất chăm chỉ, cống hiến."
+    },
+    {
+      "no": 174,
+      "part": 7,
+      "passage": null,
+      "q": "The word 'outstanding' in paragraph 2, line 5, is closest in meaning to",
+      "opts": [
+        "pending",
+        "complete",
+        "remarkable",
+        "unexpected"
+      ],
+      "ans": 2,
+      "exp": "'Outstanding contribution' = đóng góp xuất sắc, nổi bật => 'remarkable'."
+    },
+    {
+      "no": 175,
+      "part": 7,
+      "passage": null,
+      "q": "What is indicated about this year's final sales figures?",
+      "opts": [
+        "They were better than anticipated.",
+        "They were the same as last year's figures.",
+        "They were discussed at a recent staff meeting.",
+        "They were announced at a ceremony on Friday."
+      ],
+      "ans": 0,
+      "exp": "'we have exceeded our sales targets this year' => Vượt chỉ tiêu doanh số dự kiến ban đầu."
+    },
+    {
+      "no": 176,
+      "part": 7,
+      "passage": "To: Astrid Martin <amartin@elpost.com>\nFrom: Quail Airlines <reservations@quailairlines.com>\nSubject: Flight Confirmation\nDate: 15 March\n\nDear Ms. Martin,\nThe flight information for the ticket you purchased today is below.\n\nTraveler: Ms. Astrid Martin\nFlight Number: QA566       Seat: 18D       Confirmation Number: EV4363592\nDate of Travel: 10 April\nDeparting: Brussels, Belgium, 10:35 A.M.\nArriving: Toronto, Canada, 1:00 P.M.\nBoarding Time: 9:35 A.M. to 10:05 A.M.\nBaggage Reservation: 1 checked bag, 1 carry-on bag\n\nOn the day of travel, proceed to the Quail Airlines counter to receive your boarding pass and check in your baggage. As a Quail Travel Card member, you are allowed one checked bag and one carry-on bag free of cost. See the chart below for an explanation of baggage charges.\n\nChecked Bag: 1 bag ($0.00) | 2 bags ($30.00) | 3 bags ($60.00) | 4 bags ($90.00)\nCarry-On:    1 bag ($0.00)\n\nIn the event of an airline delay of more than three (3) hours, you may use your Quail Travel Card to enter our Quail Preferred Clubroom. There you may relax, use our high-speed wireless Internet service, and enjoy complimentary food and refreshments at our snack bar.\n---------------------------------------------------------------\n[Text Message Alert]\nTo: Astrid Martin\nFrom: Quail Airlines Flight QA566\nDate: 10 April, 6:00 A.M.\n\nThis text message alert is to inform you that your flight QA566 today to Toronto, Canada, has been delayed 4 hours due to poor weather conditions. Boarding will now begin at 1:35 P.M. We apologize for any inconvenience.",
+      "q": "What is true about Ms. Martin?",
+      "opts": [
+        "She is from Canada.",
+        "She is flying with a group.",
+        "She is taking a business trip.",
+        "She is a Quail Travel Card member."
+      ],
+      "ans": 3,
+      "exp": "'As a Quail Travel Card member, you are allowed...'"
+    },
+    {
+      "no": 177,
+      "part": 7,
+      "passage": null,
+      "q": "How much must Ms. Martin pay for her bags?",
+      "opts": [
+        "$0.00",
+        "$30.00",
+        "$60.00",
+        "$90.00"
+      ],
+      "ans": 0,
+      "exp": "Là hội viên thẻ, 1 kiện hành lý ký gửi và 1 xách tay được miễn phí ($0.00)."
+    },
+    {
+      "no": 178,
+      "part": 7,
+      "passage": null,
+      "q": "Why was the text message sent to Ms. Martin?",
+      "opts": [
+        "To confirm her ticket purchase",
+        "To notify her of a price increase",
+        "To inform her of a time change",
+        "To tell her what departure gate to use"
+      ],
+      "ans": 2,
+      "exp": "Tin nhắn thông báo chuyến bay bị hoãn 4 tiếng do thời tiết (thay đổi giờ bay)."
+    },
+    {
+      "no": 179,
+      "part": 7,
+      "passage": null,
+      "q": "What can Ms. Martin receive on April 10?",
+      "opts": [
+        "A free travel bag",
+        "A free snack",
+        "A free seat upgrade",
+        "A free flight reassignment"
+      ],
+      "ans": 1,
+      "exp": "Vì chuyến bay hoãn trên 3 tiếng, cô được vào phòng chờ Quail Clubroom dùng đồ ăn nhẹ miễn phí ('complimentary food and refreshments at our snack bar')."
+    },
+    {
+      "no": 180,
+      "part": 7,
+      "passage": null,
+      "q": "In the text message, the word 'poor' in paragraph 1, line 3, is closest in meaning to",
+      "opts": [
+        "bad",
+        "weak",
+        "little",
+        "thick"
+      ],
+      "ans": 0,
+      "exp": "'Poor weather conditions' = thời tiết xấu / bất lợi => 'bad'."
+    },
+    {
+      "no": 181,
+      "part": 7,
+      "passage": "To: custserv@xanthusflowers.co.uk\nFrom: mnair@nortraxpetrol.co.uk\nDate: 27 July\nSubject: Order #9871\n\nDear Sir or Madam:\nOn 24 July, I placed an online order for £180 for three arrangements of white roses and pink lilies on behalf of my company, Nortrax Petroleum. The flowers were meant to be delivered by 10 A.M. the following day for a company banquet that evening.\nUnfortunately, the flowers did not arrive until noon. Moreover, the bouquets consisted of pink and white carnations. Worst of all, many of the flowers were either wilted or were shedding petals and thus could not be used to decorate the banquet room as planned. I was surprised and disappointed to be let down by Xanthus Flowers, a company we at Nortrax Petroleum have come to trust and depend on over the last five years.\nSince the flowers were for a one-time event, a replacement order is not really an option. Consequently, I would like to receive a refund. Thank you for your attention to this matter.\nSincerely,\nMindy Nair, Corporate Event Coordinator, Nortrax Petroleum\n---------------------------------------------------------------\nTo: mnair@nortraxpetrol.co.uk\nFrom: custserv@xanthusflowers.co.uk\nDate: 28 July\nSubject: Order #9871\n\nDear Ms. Nair,\nWe sincerely apologize for the problems you recently experienced with your order. We have recently transitioned to a larger facility and have experienced a few challenges as we adjust. It is our goal to provide on-time delivery and high-quality flowers for every order. We regret that this order did not live up to our high standards.\nA refund cheque in the amount of £180 has been issued to your company. Because we are at fault, we would like to offer you a 20% discount plus free delivery on your next order. Thank you for being a loyal customer. We look forward to serving you again in the near future.\nRegards,\nBill McCabe, Customer Service Manager",
+      "q": "When did the banquet organized by Nortrax Petroleum take place?",
+      "opts": [
+        "On July 24",
+        "On July 25",
+        "On July 27",
+        "On July 28"
+      ],
+      "ans": 1,
+      "exp": "Đặt hàng ngày 24, giao hàng vào ngày hôm sau ('the following day') cho bữa tiệc tối hôm đó => Ngày 25 tháng 7."
+    },
+    {
+      "no": 182,
+      "part": 7,
+      "passage": null,
+      "q": "What is NOT true about the flowers mentioned by Ms. Nair?",
+      "opts": [
+        "Their condition was unacceptable.",
+        "They were the wrong kind.",
+        "They were too expensive.",
+        "They were delivered late."
+      ],
+      "ans": 2,
+      "exp": "Hoa bị giao muộn, sai loại (cẩm chướng thay vì hoa hồng/ly), bị héo, nhưng cô không phàn nàn giá đắt."
+    },
+    {
+      "no": 183,
+      "part": 7,
+      "passage": null,
+      "q": "What is suggested about Ms. Nair?",
+      "opts": [
+        "She works for an event-planning company.",
+        "She would like to have flowers delivered monthly.",
+        "She ordered more flower arrangements than she needed.",
+        "She has done business with Xanthus Flowers in the past."
+      ],
+      "ans": 3,
+      "exp": "'a company we at Nortrax Petroleum have come to trust and depend on over the last five years' => Đã từng đặt hoa ở đây trong quá khứ."
+    },
+    {
+      "no": 184,
+      "part": 7,
+      "passage": null,
+      "q": "What does Mr. McCabe offer that Ms. Nair was not expecting?",
+      "opts": [
+        "A discount on a future order",
+        "Free delivery for all future purchases",
+        "A refund for the entire cost of an order",
+        "New flowers to replace some unsatisfactory ones"
+      ],
+      "ans": 0,
+      "exp": "Cô Nair chỉ yêu cầu hoàn tiền, nhưng ông McCabe tặng thêm giảm giá 20% cho đơn sau."
+    },
+    {
+      "no": 185,
+      "part": 7,
+      "passage": null,
+      "q": "What is mentioned about Xanthus Flowers?",
+      "opts": [
+        "It is known for its fast service.",
+        "It is operating from a new location.",
+        "It recently purchased delivery vehicles.",
+        "It plans to expand its selection of flowers."
+      ],
+      "ans": 1,
+      "exp": "'We have recently transitioned to a larger facility' => Mới chuyển đến cơ sở/địa điểm mới."
+    },
+    {
+      "no": 186,
+      "part": 7,
+      "passage": "http://www.singhsupplies.com\nSingh Supplies LLC\nSingh Supplies LLC is your leading source for shipping and packaging materials. Our founder, Chatar Singh, started the business more than 30 years ago, when he coined the company's motto, \"Expect the best for less.\"\nHow do we, his children and grandchildren, make his pledge a reality today? We buy all materials in bulk and pass the savings along to our customers.\n✓ Each order is filled within 24 hours.\n✓ You may phone, fax, e-mail, or text your order.\n✓ Customer service agents are available 24 hours a day, 7 days a week.\n✓ Five shipping centers in the Northeast minimize costs and shorten delivery times.\nSatisfaction guarantee: Return within 10 days of purchase for a full refund. After 10 days you may return an order for a credit that is valid for up to one year. Return shipping cost is the customer's responsibility.\n---------------------------------------------------------------\n[Order Form] Singh Supplies LLC\nDate: July 10     Name: Montjoy Antiques, attn. Shipping Department\nAddress: 102 Danbury Street, Valleyville, New Hampshire 03038\n- MB 01267 | cardboard box (large)  | Qty: 80  | Unit: 1.75  | Total: 140.00\n- MB 01257 | cardboard box (medium) | Qty: 200 | Unit: 1.50  | Total: 300.00\n- MB 01268 | reinforced crate       | Qty: 50  | Unit: 15.78 | Total: 789.00\n- TR 01345 | tape roll              | Qty: 30  | Unit: 2.90  | Total: 87.00\n- BW 01456 | bubble wrap roll       | Qty: 10  | Unit: 5.60  | Total: 56.00\nSubtotal: $1372.00 | Delivery charge: $140.12 | Total: $1512.12\n---------------------------------------------------------------\n[E-mail]\nTo: Jung Hee Kim <jhk@montjoyantiques.com>\nFrom: Francine Mayo <fmayo@montjoyantiques.com>\nDate: August 12\nSubject: Order problem\n\nHi, Jung Hee,\nI just checked with our deliveries department and I am pleased that our July 10 order was delivered promptly by Singh Supplies as usual. However, now that we've finally moved the items into the warehouse, it appears we inadvertently ordered far too many of the sturdy crates. We use this item rarely, so it could take us years to go through this many. In addition, they're big, so we've had to stack several in the restoration department. Could you contact Achint Singh today and find out if we can send half of them back? Please forward me any instructions he gives you and I'll take it from there. Thank you! - Fran",
+      "q": "What is indicated about Singh Supplies?",
+      "opts": [
+        "It is a relatively new business.",
+        "It is operated by members of a family.",
+        "It ships its products all over the world.",
+        "It manufactures the products that it sells."
+      ],
+      "ans": 1,
+      "exp": "'his children and grandchildren make his pledge a reality today' => Do các thành viên trong gia đình điều hành."
+    },
+    {
+      "no": 187,
+      "part": 7,
+      "passage": null,
+      "q": "Which aspect of business does the Web page emphasize?",
+      "opts": [
+        "Attentive service to clients",
+        "A wide selection of products",
+        "Partnerships with other companies",
+        "Conveniently located retail locations"
+      ],
+      "ans": 0,
+      "exp": "'most attentive customer service in the shipping-supplies business' => Dịch vụ khách hàng chu đáo."
+    },
+    {
+      "no": 188,
+      "part": 7,
+      "passage": null,
+      "q": "In the e-mail, what does Ms. Mayo praise about Singh Supplies?",
+      "opts": [
+        "It is easy to contact.",
+        "It packs items securely.",
+        "It delivers orders quickly.",
+        "It sends product samples."
+      ],
+      "ans": 2,
+      "exp": "'delivered promptly by Singh Supplies as usual' => Giao hàng nhanh chóng."
+    },
+    {
+      "no": 189,
+      "part": 7,
+      "passage": null,
+      "q": "Which product does Ms. Mayo want to return?",
+      "opts": [
+        "MB 01257",
+        "MB 01268",
+        "TR 01345",
+        "BW 01456"
+      ],
+      "ans": 1,
+      "exp": "Cô Mayo muốn trả lại các thùng chắc chắn ('sturdy crates' / 'reinforced crate') => Mã sản phẩm MB 01268."
+    },
+    {
+      "no": 190,
+      "part": 7,
+      "passage": null,
+      "q": "How will Mr. Singh most likely respond to Ms. Kim's request?",
+      "opts": [
+        "By sending Ms. Mayo additional items",
+        "By apologizing to Ms. Kim for an error",
+        "By issuing a credit to Montjoy Antiques",
+        "By giving Montjoy Antiques a full refund"
+      ],
+      "ans": 2,
+      "exp": "Đơn hàng từ ngày 10/7, đến ngày 12/8 mới xin trả (đã quá 10 ngày). Theo chính sách: sau 10 ngày sẽ nhận voucher/credit có giá trị 1 năm."
+    },
+    {
+      "no": 191,
+      "part": 7,
+      "passage": "Tolley Praises Local Farms\nMANCHESTER (June 2) - Local horticulture expert Cassandra Tolley is scheduled to deliver a lecture Friday night at the Burton Auditorium in Manchester. The owner of Green Ridge Farm in nearby Windham County, Ms. Tolley will discuss the importance of supporting and promoting local farmers.\nA strong advocate for small-scale farmers and a small-scale farmer herself, Ms. Tolley has traveled extensively over the past few years to deliver her message of \"eating locally.\"\n\"Everyone should spend their weekends browsing the regional farmers' markets,\" she adds. \"It's the best place to get your groceries during the summer.\"\nFriday night's lecture begins at 7 P.M. It is free, but seating is limited.\n---------------------------------------------------------------\nTo: Cook Today Writing Staff\nFrom: Zack Hernandez, Editor-in-Chief\nRe: Cassandra Tolley talk\nDate: June 8\n\nTo all staff,\nCassandra Tolley is giving a talk on Friday. Please let me know if you can go. I'm confident she'll provide some good material for an article on local growers. I had a chance to hear her speak last year at Green Ridge Farm. I found her not only brilliant but funny as well. - Zack\n---------------------------------------------------------------\nFeatures Outline for the August Issue of Cook Today Magazine\n- Local Made Good | Topic: Sourcing and showcasing local producers and ingredients | Writer: Ira Newton\n- Herbs All Year  | Topic: Growing and maintaining an indoor kitchen herb garden     | Writer: Makalah Young\n- Vegan Delicious | Topic: Modern, nutritious, organic vegan recipes                | Writer: Keyon Davis\n- Amazing August  | Topic: A calendar of events in August                            | Writer: Jae-eun Park",
+      "q": "What is the purpose of the article?",
+      "opts": [
+        "To advertise a local business",
+        "To discuss the local economy",
+        "To promote an upcoming event",
+        "To profile a new shopping market"
+      ],
+      "ans": 2,
+      "exp": "Quảng bá buổi diễn thuyết sắp tới của bà Tolley vào tối thứ Sáu."
+    },
+    {
+      "no": 192,
+      "part": 7,
+      "passage": null,
+      "q": "What does Ms. Tolley encourage people to do?",
+      "opts": [
+        "Visit her Web site",
+        "Read her book",
+        "Grow their own produce",
+        "Shop at farmers' markets"
+      ],
+      "ans": 3,
+      "exp": "'Everyone should spend their weekends browsing the regional farmers' markets' => Đi chợ nông sản."
+    },
+    {
+      "no": 193,
+      "part": 7,
+      "passage": null,
+      "q": "What is indicated about Mr. Hernandez?",
+      "opts": [
+        "He is a friend of Ms. Tolley's.",
+        "He organized Ms. Tolley's talk.",
+        "He has visited Ms. Tolley's business.",
+        "He is selling tickets to Ms. Tolley's talk."
+      ],
+      "ans": 2,
+      "exp": "'I had a chance to hear her speak last year at Green Ridge Farm' (nơi bà Tolley sở hữu) => Đã từng đến cơ sở kinh doanh của bà Tolley."
+    },
+    {
+      "no": 194,
+      "part": 7,
+      "passage": null,
+      "q": "What featured article will help readers grow a garden inside their home?",
+      "opts": [
+        "Local Made Good",
+        "Herbs All Year",
+        "Vegan Delicious",
+        "Amazing August"
+      ],
+      "ans": 1,
+      "exp": "Bài viết 'Herbs All Year' với chủ đề 'Growing and maintaining an indoor kitchen herb garden'."
+    },
+    {
+      "no": 195,
+      "part": 7,
+      "passage": null,
+      "q": "Who most likely attended Ms. Tolley's talk?",
+      "opts": [
+        "Mr. Newton",
+        "Ms. Young",
+        "Mr. Davis",
+        "Ms. Park"
+      ],
+      "ans": 0,
+      "exp": "Ông Hernandez bảo nhân viên đi nghe để lấy tư liệu về người trồng trọt địa phương ('local growers'). Người phụ trách bài viết về chủ đề này là Ira Newton ('Local Made Good')."
+    },
+    {
+      "no": 196,
+      "part": 7,
+      "passage": "Madera Hotels Member Rewards\n**April Specials**\nMake a reservation by April 30 for a three-night or longer stay at any of our hotels between April 1 and August 31, and receive a choice of:\n(1) 20 points per dollar spent + 500 bonus points\n(2) $50 restaurant gift card for use at any Madera Hotel restaurants\n(3) 40% discount off spa services during your stay\n(4) A discount on a car rental booked at the same time as your stay\nTo: Mr. Brian Carelli, 815 Irving St., New York, NY 10005\n---------------------------------------------------------------\nhttp://www.maderahotels/customersupport/form.com\nMadera Hotels Member Rewards Customer Support\nToday's Date: July 14\nProperty Name: The Grand Madera | Reservation Number: XWQ43R2\nLocation: Los Angeles           | Hotel Stay Start Date: May 12\nName: Brian Carelli             | Membership Number: B11932013\nEmail: bcarelli@pointinvesting.com | Phone: 555-0101\nComments: I recently took advantage of your April Specials when I booked a stay at the Los Angeles Grand Madera for May. I requested the bonus points offer when I made my reservation online, but when I received my June statement, I noticed that the points had not been applied to my account. Please let me know if I will still receive the bonus points. Thank you.\n---------------------------------------------------------------\nTo: Brian Carelli <bcarelli@pointinvesting.com>\nFrom: Oliver Beltran <obeltran@maderahotels.com>\nDate: July 16\nSubject: Your Inquiry - B11932013\n\nDear Mr. Carelli,\nThank you for being a valued member of the Madera Hotels Member Rewards program. We appreciate you choosing Madera for your business conferences and personal trips.\nI looked into your request, and it seems that you are correct; we did not credit your account with the bonus points for your stay. Instead, we sent the restaurant gift card to your business address. I apologize for this mistake and will credit your account right away. Also, to compensate for our mistake, I will double the offer.\nSincerely,\nOliver Beltran, Senior Manager, Customer Support, Madera Hotels",
+      "q": "Why most likely did Mr. Carelli receive the postcard?",
+      "opts": [
+        "He frequently reserves rooms at Madera Hotels.",
+        "He rented a vehicle in May.",
+        "He last visited a Madera Hotel in New York.",
+        "He enjoys eating in hotel restaurants."
+      ],
+      "ans": 0,
+      "exp": "'Thank you for being a valued member... choosing Madera for your business conferences and personal trips' => Khách hàng thường xuyên đặt phòng."
+    },
+    {
+      "no": 197,
+      "part": 7,
+      "passage": null,
+      "q": "What is likely true about Mr. Carelli's hotel stay?",
+      "opts": [
+        "It was for a conference.",
+        "It included a spa visit.",
+        "It was at least three nights long.",
+        "It was paid for in advance."
+      ],
+      "ans": 2,
+      "exp": "Để được hưởng ưu đãi 'April Specials' điều kiện là phải ở ít nhất 3 đêm ('for a three-night or longer stay')."
+    },
+    {
+      "no": 198,
+      "part": 7,
+      "passage": null,
+      "q": "According to the form, when did Mr. Carelli report an issue with his account?",
+      "opts": [
+        "On April 1",
+        "On May 12",
+        "On June 30",
+        "On July 14"
+      ],
+      "ans": 3,
+      "exp": "Ngày gửi biểu mẫu là ngày 14 tháng 7 ('Today's Date: July 14')."
+    },
+    {
+      "no": 199,
+      "part": 7,
+      "passage": null,
+      "q": "What special April reward did Mr. Carelli mistakenly receive?",
+      "opts": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "ans": 1,
+      "exp": "Khách sạn gửi nhầm thẻ quà tặng nhà hàng $50 ('sent the restaurant gift card') => Ưu đãi số (2) trong danh sách."
+    },
+    {
+      "no": 200,
+      "part": 7,
+      "passage": null,
+      "q": "What does Mr. Beltran offer to do?",
+      "opts": [
+        "Upgrade a membership",
+        "Change a reservation",
+        "Give additional bonus points",
+        "Schedule a business conference"
+      ],
+      "ans": 2,
+      "exp": "'to compensate for our mistake, I will double the offer' => Nhân đôi điểm thưởng (tặng thêm bonus points)."
+    }
+  ]
+}
